@@ -1,0 +1,62 @@
+<Corpora type="Monolingual-POS-TAGGED" Language="Hindi">
+<sentence id = 561>
+भगवान_NNP श्री_NNP कृष्ण_NNP दो_CD पक्ष_NN समझ_NN युद्ध_NN टाल_NN यथासंभव_RB प्रयास_NN किन्तु_CC अंत_NN असफल_JJ कृष्ण_NNP सेना_NN कौरव_NNP श्री_NNP कृष्ण_NNP स्वयं_PRP सारथी_NN बनकर_VB अर्जुन_NNP पांडव_NNP पक्ष_NN ध्यान_NN दे_VB योग्य_JJ बात_NN कृष्ण_NNP भगवान_NNP स्वयं_PRP हथियार_NN उठाने_VB प्रतिज्ञा_NN रखी_VB, महाभारत_NNP युद्ध_NN समय_NN अर्जुन_NNP_ अहिंसा_NN भाव_NN उदय_VB अर्जुन_NNP भाई_NN गुरुजन_NN हथियार_NN उठ_VB पाप_NN विचार_NN सारथी_NN भगवान_NNP श्री_NNP कृष्ण_NNP समक्ष_IN रख_VB भगवान_NNP कृष्ण_NNP युद्ध_NN पड़_VB
+</sentence>
+<sentence id = 562>
+इंद्रप्रस्थ_NNP राजतिलक_NN राजा_गद्दी_NN संभाल_VB युधिष्ठिर_NNP बुर_JJ सपना_NN आ_PSP प्रारम्भ_NN सपना_NN युद्ध_NN हिंसा_NN अनाथ_JJ बच्चा_NN विलाप_NN विधवा_NN रुदन_NN बुर_JJ बिलख_VB लोग_VB दिख_VB दे-VB लग_VB स्वप्न_NN कारण_CC युधिष्ठिर_NNP परेशान_JJ रह_VB कारण_CC अन्य_JJ चार_QFNUM भाई_NN ज़ोर_NN डाल_VB बता_VB कृष्णजी_NNP पांडव_NNP गुरु_NN पांडव_NNP गुरु_NN श्री_NNP कृष्ण_NNP कारण_NN पूछ_VB कृष्णजी_NNP बता-VB युद्ध_NN कारण-CC पांडव_NNP सिर_NN हिंसा_NN बन्धुघात_NN महापाप_NN अश्वमेघ_NNP यज्ञ_NN श्री_NNP कृष्णजी_NNP बता_VB पृथ्वी_NN सहित_PSP साधु_NN सन्त_NN ऋषि_NN देवता_NN भोजन_NN कर_VB बात_NN कह_VB
+</sentence>
+<sentence id 563>
+श्रीकृष्ण_NNP मृत्यु_NN उपरांत_NN अर्जुन_NNP द्वारका_NNP स्त्री_NN लेकर_VB लौट_VB रास्ता_NN जंगल_NN लोग_NN अर्जुन_NNP केवल_RB पीट_VB बल्कि_CC स्त्री_NN धन_NN गहना_NN लूट_VB अर्जुन_NNP पास_JJ समय_NN गांडीव_NNP धनुष_NN महाभारत_NNP युद्ध_NNP जीत_NN किन्तु_CC काम_VB आ_VB बल्कि_CC उल्ट_JJ अर्जुन_NNP पीट_VB पड़_VB अर्जुन_NNP कृष्ण_NNP छल_NN संहार_NN कर_VINF शक्ति_NN दे_VB दी_VB धनुष_NN लाख_JJ संहार_NN धनुष_NN आज_RB पा_VB वास्तव_JJ छल_NN पुरुष_NN कृष्ण_NNP धोखा_NN गीता_NNP ज्ञान_NN अर्जुन_NNP हाथ_NN नर_NN संहार_VINF कर_VINF सिर_NN पाप_NN लाद_VB
+</sentence>
+<sentence id = 564>
+कर्ण_NNP माता_NNP कुंती_NNP पुत्र_NN सूर्य_NNP भगवान_NNP आशीर्वाद_NN समय_NN कुंती_NNP विवाह_NN पांडू_NNP कारण_NNP माता_NNP कुंती_NNP बात_NN भय_NN लोग_NN बच्चा_NN विषय_NN क्या_PRTS पूछ_VB कर्ण_NNP टोकरी_NN डाल_VB नदी_NN पानी_NN बह_VB शिशु_NN अधिरथ_NNP राधा_NNP मिला_VB बड़_JJ कर्ण_NNP अर्जुन_NNP महान_JJ धनुर्धर_NNP कर्ण_NNP महान_JJ दान_NN वीर_NN रूप_NN जा_VB जा_VB
+</sentence>
+<sentence id = 565>
+कर्ण_NNP दानवीर_JJ नाम_NN प्रसिद्ध_JJ कर्ण_NNP महाभारत_NNP युद्ध_NN क्षेत्र_NN आख़िर_NN सांस_NN भगवान्_NNP श्री_NNP कृष्ण_NNP अंतिम_JJ परीक्षा_NN ले_VB गरीब_JJ ब्राह्मण_NN रूप_NN कर्ण_NNP पास_PREP पहुंच_VB कर्ण_NNP पूछ_VB सुना_VB आप_PRP दानवीर_JJ कर्ण_NNP क्या_RP सच_NN दानवीर_JJ सुन_VB कर्ण_NNP उत्तर_NN चाह_VB मांग_VB ली_VB सोना_NN माँग_VB ब्राह्मण_NN जवाब_NN बुर_JJ इंसान_NN तुम्हारे_PRP$ दांत_NN तोड_VB कर्ण_NNP वक्त_NN पत्थर_NN उठ_VB दांत_NN तोड_VM सोने_NNP दांत_NN ले_VB ब्राह्मण_NN रूप_NN श्रीकृष्ण_NNP दो_QFNUM खून_NN सना_VB सोना_NN तभी_RB कर्ण_NNP बाण_NN उठ_VB आकाश_NN मार_VB वर्षा_NN लग_VB सोना_NN धुल_VB
+</sentence>
+<sentence id = 566>
+द्रोपदी_NNP पांडव_NNP हस्तिनापुर_NNP पासा_NNP खेल_NN हार_JJ दुर्योधन_NNP छोटा_JJ भाई_NN दुशासन_NNP रानी_NN द्रौपदी_NNP दरबार_NN तभी_RB दुशासन_NNP द्रौपदी_NNP पास_PREP बाल_NN पकड़_VB खींच_VB दरबार_NN लेकर_PREP आ_VB कौरव_NNP मिल_VB द्रौपदी_NNP अपमान_NN दुर्योधन_NNP भाई_NN भरी_JJ सभा_NN द्रौपदी_NNP चीर_NN हरण_VB दुशासन_NNP बिन_IN लज्जा_JJ द्रौपदी_NNP वस्त्र_NN खींच_VB शुरू_NN भगवान्_NNP श्रीकृष्ण_NNP कृपा_NN दुशासन_NNP कपड़ा_NN खींच_VB थक_JJ रानी_NN द्रौपदी_NNP चिर_NN हरण_VB पा_VB
+</sentence>
+<sentence id = 567>
+द्रोणाचार्य_NNP महान_JJ गुरु_NN मृत्यु_NN संभव_JJ हथियार_NN दाल_VM दें_VM हथियार_NN पांडव_NNP योजना_NN बन_VM समय_NN युद्ध_NN हाथी_NN अश्वथामा_NNP वध_NN भीम_NNP श्रीकृष्णजी_NNP पता_NN द्रोणाचार्य_NNP पुत्र_NN अश्वथामा_NNP प्रेम_NN योजना_NN अनुसार_PSP युधिष्टिर_NNP मदद_NN गुरु_NNP द्रोणाचार्य_NNP बता_VM
+</sentence>
+<sentence id = 568>
+पांडव_NNP पिता_NN पांडु_NNP मर_VM करीब_JJ पुत्र_NN बुद्धिमान_JJ बन_VM ज्ञान_NN हासिल_JJ मस्तिष्क_NN खा_VM जा_VM सहदेव_NNP केवल_RB इच्छा_NN पूरी_JJ मस्तिष्क_NN खा_VM लिया_VM पहला_JJ बार_NN खा_VM दुनिया_NN चुक_JJ चीज_NN बार_NN जानकारी_NN मिल_VM दूसरी_JJ बार_NN खा_VM उस_PRP वर्तमान_JJ घट_NN रह_VM चीज_NN बार_NN जा_VM तीसरी_JJ बार_NN खा_VM भविष्य_NN क्या_WQ हो_VM जानकारी_NN मिल_VM
+</sentence>
+<sentence id = 569>
+अर्जुन_NNP बेटा_NN इरावन_NNP पिता_NN जीत_NN खुद_PRP बलि_NN दे_VM अंतिम_JJ इच्छा_NN मर_VM शादी_NN लड़की_NN तैयार_JJ क्योंकि_CC शादी_NN तुरंत_RB पति_NN मरना_VM स्थिति_NN भगवान_NNP कृष्ण_NNP मोहिनी_NNP रूप_NN लिया_VM इरावन_NNP केवल_JJ शादी_NN बल्कि_CC पत्नी_NN विदा_NN रोए_VM 
+</sentence>
+<sentence id = 570>
+महाभारत_NNP युद्ध_NN उडुपी_NNP राजा_NN निरपेक्ष_JJ रह_VF फैसला_NN उडुपी_NNP राजा_NNP पांडव_NNP तरफ_NN कौरव_NNP तरफ_NN उडुपी_NNP राजा_NNP कृष्ण_NNP कौरव_NNP पांडव_NNP बड़ी_JJ सेना_NN भोजन_NN जरूरत_NN होगी_VM हम_PRP दो_CD तरफ_NN सेना_NN भोजन_NN बना_VM खिला_VM 18_CD दिन_NN चलने_NN युद्ध_NN कभी_RB खाना_NN कम_JJ पड़ा_VM सेना_NN राजा_NN बार_NN पूछ_VM श्रेय_NN कृष्ण_NNP दिया_VM राजा_NN कृष्ण_NNP भोजन_NN आहार_NN पता_NN चल_VM जा_VM कल_NN कितने_NNP लोग_NN मरने_NN खाना_NN हिसाब_NN बना_VM जा_VM
+</sentence>
+<sentence id = 571>
+कर्ण_NNP दुर्योधन_NNP दोस्ती_NN किस्से_NN काफी_JJ मशहूर_JJ कर्ण_NNP दुर्योधन_NNP पत्नी_NN दो_JJ एक_JJ बार_NN शतरंज_NNP खेल_NN खेल_NN कर्ण_NNP जीत_NN तभी_RB भानुमति_NNP दुर्योधन_NNP आ_NNP देखा_NNP खड़े_JJ कोशिश_NN दुर्योधन_NNP आ_NN बार_NN कर्ण_NNP पता_NN भानुमति_NNP उठने_NN कोशिश_NN कर्ण_NNP पकड़_NN चाह_NN भानुमति_NNP बदले_NNP मोती_NN माला_NN हाथ_NN आ_NN टूट_NN दुर्योधन_NNP कमरे_NN आ_NN चुक_NN दुर्योधन_NNP देख_NNP भानुमति_NNP कर्ण_NNP दो_JJ डर_NN दुर्योधन_NNP कहीं_RB गलत_JJ शक_NN जा_NNP दुर्योधन_NNP कर्ण_NNP काफी_JJ विश्वास_NN उस_PRP सिर्फ_RB इतना_RB मोती_NN उठ_NN लें_NNNN उठ_NN लें_NN
+</sentence>
+<sentence id = 572>
+अभिमन्यु_NNP पत्नी_NN वत्सला_NNP बलराम_NNP बेटी_NN बलराम_NNP चाह_NN वत्सला_NNP शादी_NN दुर्योधन_NNP बेटे_NN लक्ष्मण_NNP वत्सला_NNP अभिमन्यु_NNP एक-दूसरे_JJ प्यार_NN अभिमन्यु_NNP वत्सला_NNP पा_NNP घटोत्कच_NNP मदद_NN ली_VFM घटोत्कच_NNP लक्ष्मण_NNP इतना_RB डर_NN उस_PRP कसम_NN खा_VM ली_VFM पूरी_JJ जिंदगी_NN शादी_NN कर_VM
+</sentence>
+<sentence id = 573>
+एक_JJ बार_NN द्रौपदी_NNP कह_VM गंधमादन_NNP पर्वत_NN कमल_NN सरोवर_NN पास_NN पहुंच_NN हनुमानजी_NNP रह_VM हनुमानजी_NNP रास्ता_NN लेट_JJ भीम_NNP हट_VM हनुमानजी_NNP तुम_PRP बलशाली_JJ तुम_PRP खुद_PRP मेरी_PRP पूंछ_NN हटाकर_JJ मार्ग_NN बना_VM लो_NN परंतु_CC भीम_NNP पूंछ_NN हिल_VM) पा_VM भीम_NNP पता_NN चला_VM पवनपुत्र_NNP हनुमान_NNP उन_PRP क्षमा_NN मांग_VM
+</sentence>
+<sentence id = 574>
+अर्जुन_NNP नदी_NN पार_NN धनुर्विद्या_NN बाण_NN एक_QF सेतु_NN बन_NN रथ_NN सहित_PSP नदी_NN पार_NN नदी_NN हनुमानजी_NNP भेंट_NN हनुमाजी_NNP भगवान_NN राम_NNP इतने_QF बड़_JJ धनुर्धारी_NN मेरे_PRP$ बाण_NN पुल_NN बन_NN हनुमानजी_NNP काल_NN शक्तिशाली_JJ वानर_NN अर्जुन_NNP कह_VM तुम्_PRP चल_VM मेरे_PRP$ बाण_NN सेतु_NN टूट_VM मैं_PRP खुद_PRP सर्वश्रेष्ठ_JJ धनुर्धर_NN मानना_VM छोड़_VM दूंगा_VM हनुमानजी_NNP पग_NN रख_VM तभी_RB सेतु_NN टूट_VM जा_VM 
+</sentence>
+<sentence id = 575>
+बलरामजी_NNP विशालकाय_JJ वानर_NN द्वीत_NNP एक_QF मुक्का_NN मार_NN दिया_VFM बल_NN घमंड_NN चल_VM श्रीकृष्‍ण_NNP आदेश_NN हनुमानजी_NNP द्वारिका_NNP वाटिका_NN घुस_VM फल_NN खा_VM उत्पात_NN मच_VM लग_VM सुन_VM बलरामजी_NNP खुद_PRP एक_QF साधारण_JJ वानर_NN समझ_VM गदा_NN ले_PSP वाटिका_NN भगा_VM पहुंच_VM गए_VAUX हनुमानजी_NNP गदा_NNP युद्ध_NN हांफ_VM लग_VM सच_JJ कह_VM वानर_NN तुम_PRP श्रीकृष्ण_NNP रुक्मिणी_NNP प्रकट_JJ हो_VM बत_NN पवनपुत्र_NNP हनुमानजी_NNP 
+</sentence>
+<sentence id = 576>
+युधिष्ठिर_NNP महाभारत_NNP पांच_QF पांडव_NNP सब_QC बड़_JJ एक_QC दिन_NN राज्य_NN नीति_NN बार_NN पूछ_VRB एक_QF राजा_NN राज्य_NN ऊपर_PREP देख_VRB चाह_NN अर्थात्_CC राजा_NN नीति_NN लोग_NN तरफ_PREP मिल_VRB चाह_NN राज्य_NN नीति_NN ऊपर_PREP लोग_NN तरफ_PREP मिल_VRB चाह_NN सभासद_NN उत्तर_NN संतुष्ट_JJ युधिष्ठिर_NNP बुद्धिमता_NN प्रशंसा_NN
+</sentence>
+<sentence id = 577>
+अर्जुन_NNP धनुर्विद्या_NN प्रवीण_JJ प्राप्त_JJ गांडीव_NNP नाम_NN धनुष_NN खोज_NN आश्रम_NN गुरुकुल_NN परीक्षा_NN दे_VM धनुष_NN मिल_NN आखिर_RP महाराज_NN  द्रौपद_NNP यज्ञ_NN यात्रा_NN शामिल_JJ गांडीव_NNP धनुष_NN धारक_NN मिल_NN अर्जुन_NNP पराधीन_JJ हो_VM धनुष_NN  प्रदान_NN शर्त_NN रख_VM अर्जुन_NNP शर्त_NN दिया_VM गांडीव_NNP धनुष_NN प्राप्त_JJ लिया_VM
+</sentence>
+<sentence id = 578>
+एकलव्य_NNP एक_QFNUM आदिवासी_NN  बालक_NN  गुरु_NN  द्रोणाचार्य_NNP तीरंदाजी_NN सीख_NN चाह_NN परंतु_CC  गुरु_NN  मना_VM  दिया_VM  एक_QFNUM  मिटटी_NN  मूर्ति_NN स्थापित_JJ  गुरु_NN  द्रोणाचार्य_NNP  प्रेरणा_NN  तीरंदाजी_NN सीख_NN  शुरू_JJ  दिया_VM  एकलव्य_NNP अर्जुन_NNP  बेहतर_JJR  तीरंदाज_NN  बन_VM  गुरु_NN एकलव्य_NNP गुरु_NN दक्षिणा_NN  रूप_NN अंगूठा_NN काट_VM  एकलव्य_NNP अंगूठा_NN  गुरु_NN  दक्षिणा_NN रूप_NN काट_VM  दिया_VM
+</sentence>
+<sentence id = 579>
+अभिमन्यु_NNP महाभारत_NNP एक_QFNUM प्रमुख_JJ चरित्र_NN धनुर्धारी_NN अर्जुन_NNP पुत्र_NN भगवान_NN श्रीकृष्ण_NNP भतीजा_NN अभिमन्यु_NNP माता_NN सुभद्रा_NNP कोख_NN चक्रव्यू_NN तोड़_VB कला_NN सीख_NN महाभारत_NNP युद्ध_NN अभिमन्यु_NNP 12_QFNUM दिन_NN निडर_JJ युद्ध_NN द्रोणाचार्य_NNP बन_VB चक्रव्यूह_NN तोड़_VB दिया_VB कौरव_NNP सेना_NN पराजित_JJ दिया_VB कौरव_NNP चक्रव्यू_NN अभिमन्यु_NNP घेर_VB मौत_NN
+</sentence>
+<sentence id = 580>
+दुर्योधन_NNP पितामह_NNP सेना_NN कमजोर_JJ निशान_NN बना_VB पूरी_QF ताकत_JJ युद्ध_NN लड़_VB भीष्म_NNP पितामह_NNP 5_QFNUM सोना_NN तीर_NN निकाल_VB कल_NN सुबह_NN पांडव_NNP खत्म_VB दें_VB दुर्योधन_NNP तीर_NN दिए_VB श्रीकृष्ण_NNP अर्जुन_NNP याद_NN दिला_VB दुर्योधन_NNP गंधर्व_NNP बच_VB  बदल_NN चीज़_NN मांग_VB समय_NN आ_VB 5_QFNUM तीर_NN मांग_VB
+</sentence>
+</Corpora>
