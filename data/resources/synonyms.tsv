@@ -1,0 +1,631 @@
+word	target	status	reason	sources
+अंगूठा	उंगली	review	meaning: thumb vs finger	legacy/Nisarga/synonymmmu.txt:110
+अंग्रेज	ब्रिटिश	pending		legacy/synonym (4).txt:214
+अंचल	क्षेत्र	pending		legacy/synonym (4).txt:282
+अंजनी	अंजना	review	spelling: name variant, not a synonym	legacy/synonym (4).txt:267
+अंत	नतीजा	review	meaning: end vs result	legacy/Mahabharat/sy.txt:8
+अंतिम	अंत	review	POS: adjective (final) vs noun (end)	legacy/synonym (4).txt:122
+अंतिम	आखिर	review	POS: adjective vs noun/adverb (आखिरी would fit)	legacy/Mahabharat/sy.txt:93
+अचानक	अनपेक्षित	review	POS: adverb (suddenly) vs adjective (unexpected)	legacy/Nisarga/synonymmmu.txt:23
+अचेत	बेहोश	pending		legacy/synonym (4).txt:179
+अजीब	विचित्र	pending		legacy/Nisarga/synonymmmu.txt:76
+अधिकार	आधिपत्य	review	meaning: right vs dominion	legacy/synonym (4).txt:117
+अधिकार	हक	pending		legacy/synonym (4).txt:164
+अध्यापिका	शिक्षिका	pending		legacy/synonym (2).txt:63
+अध्वर	यज्ञ	pending		legacy/synonym (2).txt:11 | legacy/synonym (4).txt:43
+अनाथ	अशरण	review	related: orphan vs without refuge	legacy/Mahabharat/sy.txt:35
+अनुरोध	विनती	pending		legacy/synonym (2).txt:96
+अपमान	बदनाम	review	POS: noun (insult) vs adjective (infamous)	legacy/Mahabharat/sy.txt:115
+अपमानित	लज्जित	review	meaning: insulted vs ashamed	legacy/synonym (2).txt:57
+अयोध्या	अयोध्यापुरी	pending		legacy/synonym (4).txt:194
+अलग	विभक्त	pending		legacy/synonym (2).txt:68
+असफल	विफल	pending		legacy/Mahabharat/sy.txt:9
+असुर	दैत्य	pending		legacy/synonym (2).txt:72
+असुर	राक्षस	pending		legacy/synonym (2).txt:17 | legacy/synonym (4).txt:49
+अहिंसा	निष्ठुरता	review	meaning: OPPOSITE (non-violence vs cruelty)	legacy/Mahabharat/sy.txt:18
+आँख	नज़र	review	meaning: eye vs gaze	legacy/Nisarga/synonymmmu.txt:77
+आकाश	आसमान	pending		legacy/Nisarga/synonymmmu.txt:33
+आकाश	गगन	pending		legacy/Mahabharat/sy.txt:106
+आख़िर	अंतिम	pending		legacy/Mahabharat/sy.txt:91
+आजाद	स्वतंत्र	pending		legacy/Nisarga/synonymmmu.txt:32
+आज्ञा	आदेश	pending		legacy/synonym (4).txt:255
+आदमी	मनुष्य	pending		legacy/Nisarga/synonymmmu.txt:1
+आदर्शवादी	समाजवादी	review	meaning: idealist vs socialist	legacy/synonym (4).txt:209
+आदिवासी	आदिम	review	meaning: tribal vs primitive (also pejorative)	legacy/Mahabharat/sy.txt:197
+आदेश	हुक्म	pending		legacy/synonym (4).txt:219 | legacy/Mahabharat/sy.txt:175
+आधा	अर्ध	pending		legacy/synonym (4).txt:251
+आयुध	अस्त्र	pending		legacy/synonym (2).txt:23 | legacy/synonym (4).txt:55
+आवाज	ध्वनि	pending		legacy/synonym (4).txt:78
+आवाज	स्वर	pending		legacy/synonym (4).txt:88
+आवाज़	शोर	review	meaning: voice vs noise	legacy/Nisarga/synonymmmu.txt:38 | legacy/Nisarga/synonymmmu.txt:65
+आशंका	अंदेशा	pending		legacy/synonym (4).txt:98
+आशीर्वाद	अनुग्रह	pending		legacy/Mahabharat/sy.txt:73
+आश्रम	अश्रय	review	meaning: hermitage vs shelter (and misspelt आश्रय)	legacy/Mahabharat/sy.txt:189
+इंद्र	देवराज इंद्र	review	phrase vs single word	legacy/synonym (4).txt:173
+इंसान	मानव	pending		legacy/Mahabharat/sy.txt:102
+इतिहास	ऐतिहासिक	review	POS: noun (history) vs adjective (historical)	legacy/synonym (4).txt:296
+उत्तर	जवाब	pending		legacy/Mahabharat/sy.txt:98
+उत्तराधिकारी	वारिस	pending		legacy/synonym (4).txt:28
+उत्पत्ती	जन्म	pending		legacy/synonym (2).txt:12 | legacy/synonym (4).txt:44
+उत्सुक	उत्कट	review	meaning: curious vs intense	legacy/Nisarga/synonymmmu.txt:93
+उदय	विकास	review	meaning: rise vs development	legacy/Mahabharat/sy.txt:20
+उदास	उन्मन	pending		legacy/synonym (2).txt:84
+उद्गम	उत्पत्ति	pending		legacy/synonym (4).txt:312
+उधार	कर्ज	pending		legacy/Nisarga/synonymmmu.txt:86
+उपकार	सहायता	pending		legacy/Nisarga/synonymmmu.txt:50
+उपरांत	बाद में	review	phrase vs single word	legacy/Mahabharat/sy.txt:52
+उल्ट	विपरीत	pending		legacy/Mahabharat/sy.txt:62
+उल्लेख	संदर्भ	pending		legacy/synonym (4).txt:290
+ऊपर	उपर	review	spelling: misspelling, not a synonym	legacy/Nisarga/synonymmmu.txt:97
+ऋषि	महर्षि	review	related: sage vs great sage	legacy/Mahabharat/sy.txt:49
+ऋषि	मुनि	pending		legacy/synonym (4).txt:29
+औलाद	संतान	pending		legacy/Nisarga/synonymmmu.txt:106
+कंकड़	पत्थर	review	related: pebble vs stone (broader term)	legacy/synonym (2).txt:80
+कक्ष	कमरा	pending		legacy/synonym (4).txt:102
+कठिन	दुष्कर	pending		legacy/synonym (4).txt:124
+कठोर	सख्त	pending		legacy/synonym (4).txt:228
+कमरे	कक्ष	pending		legacy/Mahabharat/sy.txt:141
+कमल	पंकज	pending		legacy/Mahabharat/sy.txt:154
+कर्म	कार्य	pending		legacy/synonym (2).txt:20 | legacy/synonym (4).txt:52
+कला	कौशल	review	related: art vs skill	legacy/Mahabharat/sy.txt:212
+कसम	शपथ	pending		legacy/Mahabharat/sy.txt:151
+कहना	कथन	review	POS: verb (say) vs noun (statement)	legacy/synonym (4).txt:10
+कहानी	कथा	pending		legacy/synonym (4).txt:114
+काम	कार्य	pending		legacy/Mahabharat/sy.txt:61
+कारण	वजह	pending		legacy/Mahabharat/sy.txt:75
+किला	दुर्ग	pending		legacy/Nisarga/synonymmmu.txt:96
+किस्से	कथाएँ	pending		legacy/Mahabharat/sy.txt:135
+कुत्ता	श्वान	pending		legacy/Nisarga/synonymmmu.txt:7
+कृत्य	कार्य	pending		legacy/synonym (4).txt:119
+केकई	रानी कैकेयी	review	phrase vs single word	legacy/synonym (4).txt:187 | legacy/synonym (4).txt:204
+कैकई	रानी कैकेयी	review	phrase vs single word	legacy/synonym (4).txt:172
+कोख	गर्भ	pending		legacy/Mahabharat/sy.txt:210
+कोशिश	प्रयत्न	pending		legacy/Nisarga/synonymmmu.txt:74
+कोशिश	प्रयास	pending		legacy/Mahabharat/sy.txt:138
+क्रोध	गुस्सा	pending		legacy/synonym (2).txt:44 | legacy/synonym (4).txt:150
+क्रोधित	गुस्सा	review	POS: adjective (angry) vs noun (anger)	legacy/synonym (2).txt:70
+क्षमा	माफ़	pending		legacy/synonym (4).txt:120
+क्षमा	माफ़ी	pending		legacy/Mahabharat/sy.txt:159
+क्षेत्र	इलाक़ा	pending		legacy/Mahabharat/sy.txt:90
+खटखटाना	खिसकना	review	meaning: knock vs slip	legacy/Nisarga/synonymmmu.txt:64
+खतरा	संकट	pending		legacy/synonym (2).txt:93
+खातमा	अंत	pending		legacy/synonym (2).txt:18 | legacy/synonym (4).txt:50
+खाना	भोजन	pending		legacy/Nisarga/synonymmmu.txt:41
+खाली	रिक्त	pending		legacy/synonym (4).txt:103
+खास	विशेष	pending		legacy/Nisarga/synonymmmu.txt:17
+खिड़की	झरोखा	pending		legacy/Nisarga/synonymmmu.txt:95
+खुद	स्वयं	pending		legacy/Mahabharat/sy.txt:158
+खुश	आनंदित	pending		legacy/Nisarga/synonymmmu.txt:102
+खून	रक्त	pending		legacy/Mahabharat/sy.txt:103
+खेल	क्रीड़ा	pending		legacy/Mahabharat/sy.txt:108
+खेल	खेलकूद	pending		legacy/Mahabharat/sy.txt:137
+खेल	खेलाड़ी	review	meaning: game vs player (and misspelt खिलाड़ी)	legacy/synonym (4).txt:225
+खोज	ढूंढना	review	POS: noun vs verb	legacy/Mahabharat/sy.txt:188
+खोल	खुला	review	POS: verb stem (open) vs adjective (open)	legacy/Nisarga/synonymmmu.txt:31
+गद्दी	तक्त	review	spelling: misspelt तख़्त	legacy/Mahabharat/sy.txt:29
+गरीब	निर्धन	pending		legacy/Mahabharat/sy.txt:95
+गहन	अगम्य	review	meaning: deep vs inaccessible	legacy/synonym (2).txt:87
+गहना	आभूषण	pending		legacy/Mahabharat/sy.txt:58
+गहना	हार	review	related: ornament vs necklace (narrower term)	legacy/Nisarga/synonymmmu.txt:92
+गांव	ग्राम	pending		legacy/synonym (4).txt:206
+गाली	अपमान	review	related: abuse/swear word vs insult	legacy/synonym (4).txt:223
+गिर पड़	गिर पड़ना	review	inflection: same verb, not a synonym	legacy/synonym (4).txt:180
+गिरना	पात	review	POS: verb vs noun	legacy/synonym (4).txt:3
+गुजर	गुज़ारना	review	meaning: pass (intransitive) vs spend (transitive)	legacy/Nisarga/synonymmmu.txt:22
+गुरु	आचार्य	pending		legacy/Mahabharat/sy.txt:199
+गुरुकुल	शिष्यालय	review	garbled: not a standard word	legacy/Mahabharat/sy.txt:190
+गुरुजन	आचार्य	pending		legacy/Mahabharat/sy.txt:22
+गुर्राना	भौंकना	review	meaning: growl vs bark	legacy/Nisarga/synonymmmu.txt:8
+गुस्सा	क्रोध	pending		legacy/synonym (2).txt:41 | legacy/synonym (4).txt:147
+गुस्सा	रोष	pending		legacy/synonym (4).txt:116
+गूँज	प्रतिध्वनि	pending		legacy/synonym (4).txt:79
+गोद	बाहों में	review	phrase vs single word; meaning: lap vs in the arms	legacy/synonym (4).txt:274
+ग्रस्त	प्रभावित	pending		legacy/synonym (4).txt:99
+घट	कलश	pending		legacy/synonym (2).txt:28 | legacy/synonym (4).txt:60
+घटना	वाकया	pending		legacy/synonym (4).txt:89
+घमंड	अंहकार	review	spelling: misspelt अहंकार	legacy/synonym (2).txt:54 | legacy/synonym (4).txt:160
+घमंड	अहंकार	pending		legacy/Mahabharat/sy.txt:174
+घमंड	गर्व	review	meaning: arrogance vs (positive) pride	legacy/synonym (2).txt:61
+घर	बंगला	review	related: house vs bungalow (narrower term)	legacy/Nisarga/synonymmmu.txt:5
+घाटी	वादी	pending		legacy/synonym (4).txt:84
+घूमना	टहलाव	review	POS: verb vs non-standard noun	legacy/synonym (4).txt:14
+घोड़ा	अश्व	pending		legacy/synonym (2).txt:71 | legacy/synonym (2).txt:74
+घोषणा	सूचना	review	related: announcement vs information	legacy/Nisarga/synonymmmu.txt:72
+चक्रव्यू	व्यूह	pending		legacy/Mahabharat/sy.txt:211
+चट्टान	पर्वत	review	meaning: rock vs mountain	legacy/Nisarga/synonymmmu.txt:35
+चतुर	चालाक	pending		legacy/Nisarga/synonymmmu.txt:111
+चरित्र	व्यक्तित्व	pending		legacy/Mahabharat/sy.txt:209
+चाह	इच्छा	pending		legacy/synonym (4).txt:237 | legacy/Mahabharat/sy.txt:99
+चाह थे	इच्छुक थे	pending		legacy/synonym (4).txt:203
+चिंत	फिक्र	pending		legacy/synonym (4).txt:104
+चिड़िया	पक्षी	pending		legacy/Nisarga/synonymmmu.txt:91
+चिल्ला	शोर	review	POS: verb (shout) vs noun (noise)	legacy/synonym (4).txt:71
+चीख	चीत्कार	pending		legacy/synonym (4).txt:77
+चीर	फाड़	pending		legacy/Mahabharat/sy.txt:117
+चील	गिद्ध	review	meaning: kite vs vulture	legacy/Nisarga/synonymmmu.txt:28
+चुनौती	चैलेंज	pending		legacy/synonym (4).txt:232
+चुनौती	प्रत	review	garbled: truncated word	legacy/synonym (4).txt:298
+छल	माया	review	related: deceit vs illusion	legacy/Mahabharat/sy.txt:64
+छावनी	सेना कैंट	review	phrase vs single word	legacy/synonym (4).txt:212
+छिपाना	अवगुंठन	review	POS: verb (hide) vs noun (veil)	legacy/synonym (4).txt:27
+छोटा	लघु	pending		legacy/synonym (4).txt:67 | legacy/synonym (4).txt:250
+छोटा	सूक्ष्म	review	related: small vs microscopic	legacy/Mahabharat/sy.txt:110
+जंग	युद्ध	pending		legacy/synonym (2).txt:14 | legacy/synonym (4).txt:46
+जंगल	वन	pending		legacy/Mahabharat/sy.txt:55 | legacy/Nisarga/synonymmmu.txt:21 | legacy/Nisarga/synonymmmu.txt:43
+जन	जनमानस	review	meaning: people vs public sentiment	legacy/synonym (4).txt:4
+जन्म	पैदाइश	pending		legacy/synonym (4).txt:32
+जवाब	उत्तर	pending		legacy/Mahabharat/sy.txt:100 | legacy/Nisarga/synonymmmu.txt:67
+ज़रूरत	आवश्यकता	pending		legacy/Nisarga/synonymmmu.txt:57 | legacy/Nisarga/synonymmmu.txt:114
+ज़िला	ज़िला प्रशासन	review	phrase vs single word	legacy/synonym (4).txt:279
+ज़ोर	ताक़त	pending		legacy/Mahabharat/sy.txt:42
+जागना	जागरण	review	POS: verb vs noun	legacy/synonym (4).txt:5
+जादु	जादू	review	spelling: misspelling, not a synonym	legacy/Nisarga/synonymmmu.txt:70
+जादुई	मायावी	pending		legacy/Nisarga/synonymmmu.txt:99
+जान बचा	जान बचाई	review	inflection: same phrase, not a synonym	legacy/synonym (4).txt:185
+जानकारी	सूचना	pending		legacy/Mahabharat/sy.txt:128
+जिंदगी	जीवन	pending		legacy/synonym (4).txt:80 | legacy/Mahabharat/sy.txt:152
+जीत	विजय	pending		legacy/Mahabharat/sy.txt:60
+जीना	जिंदगी	review	POS: verb (live) vs noun (life)	legacy/synonym (4).txt:6
+जीवन	जिंदगी	pending		legacy/synonym (4).txt:91
+जेवर	आभूषण	pending		legacy/Nisarga/synonymmmu.txt:89
+ज्ञान	जानकारी	pending		legacy/Mahabharat/sy.txt:124
+ज्ञान	विद्या	pending		legacy/Mahabharat/sy.txt:70
+ज्ञानी	ज्ञानवान	pending		legacy/synonym (4).txt:138
+झगड	विवाद	pending		legacy/synonym (4).txt:224
+टाल	स्थगित	review	POS: verb stem vs adjective	legacy/Mahabharat/sy.txt:5
+टीले	ढेर	review	meaning: mound vs heap	legacy/synonym (4).txt:257
+ठीक	सही	pending		legacy/Nisarga/synonymmmu.txt:13
+डर	भय	pending		legacy/synonym (4).txt:74 | legacy/Mahabharat/sy.txt:142
+डाल	शाखा	pending		legacy/Mahabharat/sy.txt:80
+डिस्ट्रिक्ट	ज़िला	pending		legacy/synonym (4).txt:285
+डॉक्टर	चिकित्सक	pending		legacy/Nisarga/synonymmmu.txt:62
+तट	किनारे	pending		legacy/synonym (2).txt:2 | legacy/synonym (4).txt:34
+तप	तपस्या	pending		legacy/synonym (4).txt:125
+तबीयत	स्वास्थ्य	pending		legacy/Nisarga/synonymmmu.txt:51
+तल	नीचे	review	POS: noun (bottom) vs adverb (below)	legacy/Nisarga/synonymmmu.txt:82
+ताकत	बल	pending		legacy/Nisarga/synonymmmu.txt:52
+ताकत	शक्ति	pending		legacy/Nisarga/synonymmmu.txt:69
+तालाब	जलाशय	pending		legacy/Nisarga/synonymmmu.txt:49
+तिगुना	तीन गुना	review	phrase vs single word	legacy/synonym (4).txt:235
+तीन साल	तीन वर्ष	pending		legacy/synonym (4).txt:242
+तीर	बाण	pending		legacy/synonym (2).txt:42 | legacy/synonym (4).txt:148
+तीरंदाज	धनुर्धर	pending		legacy/Mahabharat/sy.txt:206
+तीरंदाजी	धनुर्विद्या	pending		legacy/Mahabharat/sy.txt:200
+तुरंत	तत्काल	pending		legacy/synonym (4).txt:181
+तेज़	शीघ्र	pending		legacy/Nisarga/synonymmmu.txt:37 | legacy/Nisarga/synonymmmu.txt:78
+दंड	सजा	pending		legacy/synonym (2).txt:90
+दंडकारण्य	जंगल	review	proper noun: named forest vs generic forest	legacy/synonym (4).txt:165
+दक्षिणा	भेंट	pending		legacy/Mahabharat/sy.txt:207
+दया	तरस	pending		legacy/Nisarga/synonymmmu.txt:30
+दरबान	चौकीदार	pending		legacy/Nisarga/synonymmmu.txt:122
+दरबार	राजदरबार	pending		legacy/Mahabharat/sy.txt:112
+दरवाज़ा	दरवाजे	review	inflection: same word, not a synonym	legacy/Nisarga/synonymmmu.txt:63
+दरवाज़ा	पट्टी	review	meaning: door vs strip/bandage	legacy/Nisarga/synonymmmu.txt:94
+दर्ज	दाखिल	pending		legacy/synonym (4).txt:230
+दर्शन	दृष्टि	review	meaning: darshan/philosophy vs eyesight (context-dependent)	legacy/synonym (4).txt:248
+दशरथ	सूर्यवंशी	review	proper noun: name vs dynasty epithet	legacy/synonym (4).txt:170 | legacy/synonym (4).txt:186
+दशरथ घायल	सूर्यवंशी घायल	review	proper noun: name vs dynasty epithet	legacy/synonym (4).txt:177
+दानवीर	बलिदानी	review	meaning: generous giver vs self-sacrificer	legacy/Mahabharat/sy.txt:88
+दिन	दिवस	pending		legacy/synonym (4).txt:126 | legacy/Nisarga/synonymmmu.txt:34
+दिया	दिया गया	review	phrase vs single word	legacy/synonym (4).txt:178
+दुखी	उदास	pending		legacy/synonym (4).txt:162
+दुगना	दोहरा	pending		legacy/synonym (4).txt:217
+दुनिया	विश्व	pending		legacy/Mahabharat/sy.txt:126
+दुरुपयोग	गलत इस्तेमाल	review	phrase vs single word	legacy/synonym (2).txt:43 | legacy/synonym (4).txt:149
+दुर्भाग्य	अशुभता	review	related: misfortune vs inauspiciousness	legacy/Nisarga/synonymmmu.txt:71
+दुर्भाग्य	दुख	review	meaning: misfortune vs sorrow	legacy/Nisarga/synonymmmu.txt:59
+दुर्भाग्य	बदकिस्मत	review	POS: noun vs adjective (बदकिस्मती would fit)	legacy/synonym (4).txt:97
+दुष्ट	दुर	review	garbled: truncated word	legacy/synonym (4).txt:205
+दुष्ट	बुरा	pending		legacy/Nisarga/synonymmmu.txt:123
+दूरी	अंतर	pending		legacy/synonym (4).txt:307
+देख	दर्श	review	garbled: truncated stem	legacy/synonym (4).txt:106
+देखना	अवकलन	review	meaning: see vs differentiation (maths term)	legacy/synonym (4).txt:20
+देने	प्रदान करने	review	phrase vs single word	legacy/synonym (4).txt:190
+देव असुर	देवता राक्षस	pending		legacy/synonym (4).txt:166
+दो	द्वे	review	garbled: Sanskrit dual form, not Hindi	legacy/Mahabharat/sy.txt:1
+दोस्त	मित्र	pending		legacy/Nisarga/synonymmmu.txt:81
+दोस्ती	मित्रता	pending		legacy/Mahabharat/sy.txt:134
+दौड़	भागना	review	POS: noun vs verb	legacy/synonym (4).txt:101
+द्वन्द्व	विवाद	pending		legacy/synonym (4).txt:245
+द्वार	दरवाज़ा	pending		legacy/synonym (4).txt:93
+धन	संपत्ति	pending		legacy/Mahabharat/sy.txt:57
+धनुर्धर	तीरधारी	pending		legacy/Mahabharat/sy.txt:169
+धनुर्धारी	तीरधारी	pending		legacy/Mahabharat/sy.txt:165
+धनुर्विद्या	तीरबाजी	pending		legacy/Mahabharat/sy.txt:161
+धनुष	शर	review	meaning: bow vs arrow	legacy/Mahabharat/sy.txt:187
+धन्यवाद	आभार	pending		legacy/Nisarga/synonymmmu.txt:42
+धारक	धारिता	review	meaning: holder vs capacitance	legacy/Mahabharat/sy.txt:193
+धैर्य	सहनशीलता	pending		legacy/synonym (2).txt:66
+धोखा	ठग	review	meaning: deception vs swindler	legacy/Mahabharat/sy.txt:69
+ध्यान	लगाव	review	meaning: attention vs attachment	legacy/Mahabharat/sy.txt:13
+नगर	पुर	pending		legacy/synonym (4).txt:92
+नज़र	दृष्टि	pending		legacy/Nisarga/synonymmmu.txt:24
+नदी	धारा	pending		legacy/synonym (4).txt:254
+नदी	सरिता	pending		legacy/synonym (4).txt:17 | legacy/Mahabharat/sy.txt:81 | legacy/Mahabharat/sy.txt:160
+नफरत	घृणा	pending		legacy/synonym (4).txt:72
+नाम	पुकार	review	meaning: name vs call	legacy/synonym (4).txt:313
+नाम जाना	प्रसिद्ध होना	pending		legacy/synonym (4).txt:304
+नाराज	अप्रसन्न	pending		legacy/synonym (4).txt:70
+निःसंतान	निसंतान	review	spelling: variant spelling, not a synonym	legacy/synonym (2).txt:25 | legacy/synonym (4).txt:57
+निकाल लिया	निकाल दिया	review	meaning: took out vs threw out	legacy/synonym (4).txt:184
+निडर	साहसिक	review	meaning: fearless vs adventurous	legacy/Mahabharat/sy.txt:213
+निरपेक्ष	निष्पक्ष	pending		legacy/Mahabharat/sy.txt:129
+निराश	हताशा	review	POS: adjective vs noun	legacy/synonym (2).txt:58
+निवास	बसेरा	pending		legacy/synonym (4).txt:295
+निवासी	वासी	pending		legacy/synonym (4).txt:207
+निश्चय	फैसला	pending		legacy/synonym (4).txt:198
+नीति	नियम	review	meaning: policy vs rule	legacy/Mahabharat/sy.txt:181
+नुकसान	हानि	pending		legacy/synonym (2).txt:56
+नृप	राजा	pending		legacy/synonym (2).txt:3 | legacy/synonym (4).txt:35
+नौजवान	युवा	pending		legacy/synonym (4).txt:210
+पंडित	साधु	review	meaning: priest/scholar vs ascetic	legacy/synonym (4).txt:136
+पक्ष	दल	pending		legacy/Mahabharat/sy.txt:2
+पग	पैर	pending		legacy/Mahabharat/sy.txt:170
+पटक	फेक	review	meaning: slam vs throw (and misspelt फेंक)	legacy/synonym (2).txt:69
+पड़ना	गिरना	review	meaning: lie/happen vs fall (only sometimes equivalent)	legacy/Nisarga/synonymmmu.txt:27
+पत्नी	जीवनसंगिनी	pending		legacy/Mahabharat/sy.txt:145
+पत्नी	भार्या	pending		legacy/synonym (2).txt:37 | legacy/synonym (2).txt:92 | legacy/synonym (4).txt:143
+पत्नी	विवाहिता	pending		legacy/Nisarga/synonymmmu.txt:107
+पराजित	हार	review	POS: adjective vs noun	legacy/Mahabharat/sy.txt:214
+पराधीन	अधीन	pending		legacy/Mahabharat/sy.txt:194
+परिणाम	फलस्वरूप	review	POS: noun (result) vs adverb (as a result)	legacy/synonym (2).txt:22 | legacy/synonym (4).txt:54
+परिसर	वातावरण	review	meaning: premises vs environment	legacy/synonym (4).txt:272
+परीक्षा	परख	pending		legacy/Mahabharat/sy.txt:94
+परेशान	चिंतित	pending		legacy/Mahabharat/sy.txt:41
+पर्यटक	दर्शनीय	review	meaning: tourist vs worth seeing	legacy/synonym (4).txt:281
+पर्वत	पहाड़	pending		legacy/Mahabharat/sy.txt:153
+पवनपुत्र	हनुमान	pending		legacy/synonym (4).txt:260
+पवित्र	शुद्ध	pending		legacy/synonym (4).txt:253
+पसंद	रुचि	pending		legacy/synonym (4).txt:231
+पहनना	आसंजन	review	meaning: wear vs adhesion	legacy/synonym (4).txt:2
+पहला	प्रथम	pending		legacy/synonym (4).txt:81
+पहले प्रमाण	अधिकृत साक्ष्य	review	meaning: first proof vs authorised evidence	legacy/synonym (4).txt:294
+पहाड़	पर्वत	pending		legacy/synonym (4).txt:76 | legacy/synonym (4).txt:286
+पहाड़	शिख	review	garbled: truncated word	legacy/Nisarga/synonymmmu.txt:79
+पहिये	चक्र	pending		legacy/synonym (2).txt:50 | legacy/synonym (4).txt:156
+पहुंचना	रसाई	review	POS: verb vs noun	legacy/synonym (4).txt:19
+पांडव	महाभारत के पांडवों	review	phrase vs single word	legacy/synonym (4).txt:292
+पानी	जल	pending		legacy/Mahabharat/sy.txt:82 | legacy/Nisarga/synonymmmu.txt:55
+पाप	अपराध	review	meaning: sin vs crime	legacy/Mahabharat/sy.txt:24
+पास	नजदीक	pending		legacy/Nisarga/synonymmmu.txt:56
+पास	मान्य	review	meaning: wrong sense (pass an exam) vs valid	legacy/synonym (4).txt:22
+पास	समीप	pending		legacy/Mahabharat/sy.txt:113
+पिंजरा	क़ैदखाना	review	meaning: cage vs prison	legacy/Nisarga/synonymmmu.txt:26
+पिता	पितर	review	meaning: father vs ancestors	legacy/Mahabharat/sy.txt:121
+पिता	बापू	pending		legacy/synonym (4).txt:108
+पीट	मार	pending		legacy/Mahabharat/sy.txt:63
+पीना	पिण्याक	review	meaning: drink vs oil-cake	legacy/synonym (4).txt:18
+पुत्र	बेटा	pending		legacy/Mahabharat/sy.txt:72 | legacy/Mahabharat/sy.txt:122
+पुरातात्विक	ऐतिहासिक	review	meaning: archaeological vs historical	legacy/synonym (4).txt:293
+पुरुष	नर	pending		legacy/Mahabharat/sy.txt:68
+पूजन	अराधना	review	spelling: target misspelt (आराधना)	legacy/synonym (4).txt:249
+पूर्ण	पूरा	pending		legacy/synonym (4).txt:271
+पूर्व नाम	अभिनाम	review	phrase vs single word; garbled: not a standard word	legacy/synonym (4).txt:317
+पूर्वकालीन	प्राचीन	pending		legacy/synonym (2).txt:1 | legacy/synonym (4).txt:33
+पृथ्वी	धरती	pending		legacy/Mahabharat/sy.txt:47
+पेड़	पौधा	review	meaning: tree vs plant	legacy/synonym (4).txt:1
+पेड़	वृक्ष	pending		legacy/Nisarga/synonymmmu.txt:25
+प्यार	प्रेम	pending		legacy/synonym (4).txt:87 | legacy/Mahabharat/sy.txt:149
+प्यार	मुहब्बत	pending		legacy/synonym (2).txt:38 | legacy/synonym (4).txt:144
+प्यारा	मनमोहक	review	meaning: dear vs charming	legacy/Nisarga/synonymmmu.txt:119
+प्रकट	प्रगट	review	spelling: variant spelling, not a synonym	legacy/Mahabharat/sy.txt:179
+प्रकांड	श्रेष्ठ	pending		legacy/synonym (4).txt:135
+प्रकार	भेद	pending		legacy/synonym (4).txt:94
+प्रतिज्ञा	संकल्प	pending		legacy/Mahabharat/sy.txt:16
+प्रतिमा	मूर्ति	pending		legacy/synonym (4).txt:261
+प्रतिशोध	बदला	pending		legacy/synonym (2).txt:59
+प्रतिष्ठा	ख्याति	pending		legacy/synonym (4).txt:163
+प्रतीक	चिह्न	pending		legacy/synonym (4).txt:140
+प्रदान	देना	pending		legacy/Mahabharat/sy.txt:195
+प्रभु श्रीराम	भगवान राम	pending		legacy/synonym (4).txt:246
+प्रमुख	प्रधान	pending		legacy/Mahabharat/sy.txt:208
+प्रयास	कोशिश	pending		legacy/synonym (4).txt:111
+प्रयास	प्रयत्न	pending		legacy/Mahabharat/sy.txt:7
+प्रवीण	विद्वान	review	meaning: skilled vs scholar	legacy/Mahabharat/sy.txt:186
+प्रशंसा	सराहना	pending		legacy/Mahabharat/sy.txt:185
+प्रश्न	सवाल	pending		legacy/synonym (4).txt:110
+प्रसन्न	ख़ुश	pending		legacy/synonym (2).txt:52 | legacy/synonym (2).txt:86 | legacy/synonym (4).txt:107 | legacy/synonym (4).txt:158
+प्रसन्न	प्रसन्नता	review	POS: adjective vs noun	legacy/synonym (4).txt:188
+प्रसिद्ध	विख्यात	pending		legacy/Mahabharat/sy.txt:89
+प्रांत	प्रदेश	pending		legacy/synonym (2).txt:24 | legacy/synonym (4).txt:56
+प्राचीनतम	सबसे पुराना	review	phrase vs single word	legacy/synonym (4).txt:289
+प्राप्त	पाना	pending		legacy/synonym (2).txt:34 | legacy/synonym (4).txt:66
+प्रेरणा	उत्साह	review	meaning: inspiration vs enthusiasm	legacy/Mahabharat/sy.txt:205
+फटकार	डाँट	pending		legacy/synonym (4).txt:73
+फ़ैसला	निर्णय	pending		legacy/synonym (4).txt:238
+फूल	माला	review	meaning: flower vs garland	legacy/synonym (4).txt:263
+फैसला	निर्णय	pending		legacy/Nisarga/synonymmmu.txt:116
+फैसला	समाधान	review	meaning: decision vs solution	legacy/Mahabharat/sy.txt:130
+बच	रक्ष	review	garbled: truncated stem	legacy/synonym (4).txt:83
+बच्चा	बालक	pending		legacy/Mahabharat/sy.txt:36 | legacy/Mahabharat/sy.txt:78
+बच्चा	शिशु	pending		legacy/synonym (4).txt:68
+बड़ी	महान	review	meaning: big vs great	legacy/Mahabharat/sy.txt:131
+बढाते	बढ़ते	review	inflection: transitive vs intransitive form, not a synonym	legacy/synonym (4).txt:241
+बदकिस्मत	अभागा	pending		legacy/Nisarga/synonymmmu.txt:88
+बदल	परिवर्तन	pending		legacy/synonym (4).txt:305
+बदला	प्रतिकार	pending		legacy/synonym (2).txt:39 | legacy/synonym (4).txt:145
+बधाई	शुभकामनाएं	review	meaning: congratulations vs best wishes	legacy/Nisarga/synonymmmu.txt:120
+बनाना	बनाने	review	inflection: same word, not a synonym	legacy/synonym (4).txt:202
+बन्धुघात	बंधुहत्या	pending		legacy/Mahabharat/sy.txt:44
+बराबरी	समानता	pending		legacy/synonym (4).txt:226
+बल	शक्ति	pending		legacy/Mahabharat/sy.txt:173
+बलशाली	प्रबल	pending		legacy/Mahabharat/sy.txt:157
+बस्ती	मोहल्ला	pending		legacy/synonym (4).txt:314
+बह	धारा	review	POS: verb stem (flow) vs noun (stream)	legacy/Mahabharat/sy.txt:83
+बाँग	द्वार	review	meaning: cock-crow vs door	legacy/Nisarga/synonymmmu.txt:118
+बाण	तीर	pending		legacy/Mahabharat/sy.txt:105 | legacy/Mahabharat/sy.txt:162
+बात	बोल	review	meaning: matter/talk vs spoken words	legacy/synonym (4).txt:23
+बात	वार्ता	pending		legacy/Mahabharat/sy.txt:76 | legacy/Nisarga/synonymmmu.txt:20
+बाधा	विघ्न	pending		legacy/synonym (2).txt:16 | legacy/synonym (4).txt:48
+बाल	केश	pending		legacy/Mahabharat/sy.txt:114
+बाल	बच्चा	review	ambiguous: बाल usually means hair	legacy/synonym (4).txt:266
+बालक	बच्चा	pending		legacy/synonym (4).txt:275 | legacy/Mahabharat/sy.txt:198
+बालिका	कन्या	pending		legacy/synonym (2).txt:29 | legacy/synonym (4).txt:61
+बाहर	दूर	review	meaning: outside vs far	legacy/Nisarga/synonymmmu.txt:101
+बिलख	चीख	review	related: wail vs scream	legacy/Mahabharat/sy.txt:39
+बिल्ली	बिलौरा	review	garbled: not standard (बिलौटा = tomcat)	legacy/Nisarga/synonymmmu.txt:61
+बीमार	रोगी	pending		legacy/Nisarga/synonymmmu.txt:46 | legacy/Nisarga/synonymmmu.txt:60
+बीमारी	रोग	pending		legacy/Nisarga/synonymmmu.txt:48
+बुढ़ापा	वृद्धावस्था	pending		legacy/Nisarga/synonymmmu.txt:47
+बुद्धि	अकल	pending		legacy/Nisarga/synonymmmu.txt:68
+बुद्धि	बुद्धिमान	review	POS: noun vs adjective	legacy/Mahabharat/sy.txt:177
+बुद्धिमता	विवेक	pending		legacy/Mahabharat/sy.txt:184
+बुद्धिमान	बुद्धिमत	review	garbled: truncated word	legacy/Mahabharat/sy.txt:123
+बुर	खराब	review	garbled: source word truncated (बुरा)	legacy/Mahabharat/sy.txt:31
+बुर	दुष्ट	review	garbled: source word truncated (बुरा)	legacy/Mahabharat/sy.txt:101
+बुरा	भ्रष्ट	review	meaning: bad vs corrupt	legacy/synonym (4).txt:21
+बूढ़ा	वृद्ध	pending		legacy/Nisarga/synonymmmu.txt:45
+बेकार	व्यर्थ	pending		legacy/synonym (2).txt:67
+बेचैन	व्याकुल	pending		legacy/synonym (4).txt:112
+बेटा	पुत्र	pending		legacy/synonym (4).txt:86 | legacy/Nisarga/synonymmmu.txt:109
+बेटा	पूत	pending		legacy/synonym (4).txt:8
+बेटी	पुत्री	pending		legacy/Mahabharat/sy.txt:146
+बेटे	पुत्र	pending		legacy/Mahabharat/sy.txt:148
+बेटों	पुत्रों	pending		legacy/synonym (4).txt:196
+ब्राह्मण	पंडित	pending		legacy/Mahabharat/sy.txt:96
+भक्त	भक्तिभाव	review	meaning: devotee vs devotion	legacy/synonym (4).txt:247
+भगवान	ईश्वर	pending		legacy/synonym (4).txt:123 | legacy/synonym (4).txt:300 | legacy/Nisarga/synonymmmu.txt:108
+भगवान	प्रभु	pending		legacy/synonym (2).txt:47 | legacy/synonym (4).txt:153
+भय	डर	pending		legacy/Mahabharat/sy.txt:77
+भयभीत	डरना	review	POS: adjective vs verb	legacy/synonym (2).txt:35 | legacy/synonym (4).txt:141
+भयभीत	भयग्रस्त	pending		legacy/synonym (2).txt:95
+भविष्य	आगामी	review	POS: noun vs adjective	legacy/Mahabharat/sy.txt:127
+भाई	भ्राता	pending		legacy/synonym (4).txt:109 | legacy/Mahabharat/sy.txt:21
+भाई	सहोदर	pending		legacy/synonym (4).txt:302
+भाग	दौड़	review	ambiguous: भाग usually means part	legacy/synonym (4).txt:75
+भार्या	पत्नी	pending		legacy/synonym (2).txt:4 | legacy/synonym (4).txt:36
+भाव	संवेदना	pending		legacy/Mahabharat/sy.txt:19
+भीमकाय	भयानक	review	meaning: gigantic vs terrible	legacy/Nisarga/synonymmmu.txt:84
+भीषण	उत्पीड़नाक	review	garbled: not a word	legacy/synonym (4).txt:167
+भूमि	जमीन	pending		legacy/synonym (2).txt:30 | legacy/synonym (4).txt:62
+भेड़िया	लोमड़ी	review	meaning: wolf vs fox	legacy/Nisarga/synonymmmu.txt:44
+भेदभाव	अंतर्वेदना	review	meaning: discrimination vs inner anguish	legacy/Nisarga/synonymmmu.txt:10
+भोजन	आहार	pending		legacy/Mahabharat/sy.txt:132 | legacy/Nisarga/synonymmmu.txt:53
+भोजन	भोज	review	meaning: meal vs feast	legacy/Mahabharat/sy.txt:50
+भौंकना	गुर्राना	review	meaning: bark vs growl	legacy/Nisarga/synonymmmu.txt:125
+मंदिर	देवालय	pending		legacy/synonym (4).txt:256
+मतभेद	असहमति	pending		legacy/synonym (2).txt:89
+मतभेद	विवाद	pending		legacy/synonym (4).txt:309
+मदद	सहायता	pending		legacy/Mahabharat/sy.txt:150 | legacy/Nisarga/synonymmmu.txt:85
+मध्य प्रान्त	मध्य प्रदेश	review	proper noun: Central Provinces vs Madhya Pradesh (different entities)	legacy/synonym (4).txt:211
+मनोकामना	इच्छा	pending		legacy/synonym (4).txt:270
+मर्जी	इच्छा	pending		legacy/Nisarga/synonymmmu.txt:9 | legacy/Nisarga/synonymmmu.txt:15
+मशहूर	प्रसिद्ध	pending		legacy/Mahabharat/sy.txt:136
+मस्तिष्क	बुद्धि	review	meaning: brain vs intellect	legacy/Mahabharat/sy.txt:125
+महत्वपूर्ण	मुख्य	review	meaning: important vs main	legacy/synonym (4).txt:280
+महल	राजनिवास	pending		legacy/synonym (4).txt:100
+महसूस	सताती	review	meaning: feel vs torments (made to fit the old demo pair)	legacy/synonym (2).txt:8 | legacy/synonym (4).txt:40
+महान	प्रतापी	pending		legacy/Mahabharat/sy.txt:85
+महान	सर्वोच्च	review	meaning: great vs supreme	legacy/synonym (4).txt:137
+महापाप	बड़ा पाप	review	phrase vs single word	legacy/Mahabharat/sy.txt:45
+महापुराण	पुराण	pending		legacy/synonym (4).txt:288
+महाभारत	महाकाव्य	review	proper noun: title vs genre (epic)	legacy/synonym (4).txt:287
+माँ	माता	pending		legacy/synonym (4).txt:69
+मां	माता	pending		legacy/synonym (4).txt:273
+मांग	चाह	review	meaning: demand vs desire	legacy/synonym (4).txt:121
+मांगना	अर्थना	review	garbled: truncated word (प्रार्थना?)	legacy/synonym (4).txt:31
+मांस	गोश्त	pending		legacy/Nisarga/synonymmmu.txt:3
+माता	माँ	pending		legacy/synonym (4).txt:105 | legacy/synonym (4).txt:268
+मात्र	केवल	pending		legacy/synonym (4).txt:306
+माफ़	क्षमा	pending		legacy/synonym (4).txt:221
+माला	हार	pending		legacy/Mahabharat/sy.txt:139
+मालिक	स्वामी	pending		legacy/Nisarga/synonymmmu.txt:4 | legacy/Nisarga/synonymmmu.txt:14
+मालूम	ज्ञात	pending		legacy/synonym (4).txt:115
+मिटटी	मृदा	pending		legacy/Mahabharat/sy.txt:202
+मुकर	इनकार	pending		legacy/synonym (4).txt:236
+मुक्का	प्रहार	pending		legacy/Mahabharat/sy.txt:172
+मुख्य	प्रमुख	pending		legacy/synonym (4).txt:265
+मुख्यालय	प्रशासनिक केंद्र	review	phrase vs single word	legacy/synonym (4).txt:283
+मुनी	ऋषी	pending		legacy/synonym (2).txt:9 | legacy/synonym (4).txt:41
+मुश्किल	कठिन	pending		legacy/Nisarga/synonymmmu.txt:100
+मुस्लिम	इस्लामी	pending		legacy/synonym (4).txt:310
+मूर्ति	प्रतिमा	pending		legacy/synonym (2).txt:78 | legacy/Mahabharat/sy.txt:203
+मूल्यवान	अनमोल	pending		legacy/synonym (2).txt:83
+मृत्यु	मौत	pending		legacy/Mahabharat/sy.txt:51
+मृत्यु	स्वर्गवास	pending		legacy/synonym (4).txt:113
+मृदा	मिट्टी	pending		legacy/synonym (2).txt:31 | legacy/synonym (4).txt:63
+मेहनत	परिश्रम	pending		legacy/Nisarga/synonymmmu.txt:11
+मैदान	खेलकूद	review	meaning: ground vs sports	legacy/synonym (4).txt:244
+मैम	अध्यापिका	pending		legacy/synonym (2).txt:65
+मौत	मृत्यु	pending		legacy/Mahabharat/sy.txt:215
+यज्ञ	अध्वर	pending		legacy/synonym (4).txt:30
+यज्ञ	हवन	pending		legacy/synonym (4).txt:128 | legacy/Mahabharat/sy.txt:46
+यथासंभव	अधिकतम	review	meaning: as far as possible vs maximum	legacy/Mahabharat/sy.txt:6
+यात्रा	प्रवास	pending		legacy/Mahabharat/sy.txt:191
+युद्ध	संग्राम	pending		legacy/synonym (4).txt:168 | legacy/Mahabharat/sy.txt:4 | legacy/Mahabharat/sy.txt:33
+युद्ध शक्ति	सैन्य बल	pending		legacy/synonym (4).txt:175
+युद्ध स्थल	संग्राम स्थल	pending		legacy/synonym (4).txt:183
+युवक	युवा	pending		legacy/Nisarga/synonymmmu.txt:75
+युवावस्था	तरुण अवस्था	review	phrase vs single word	legacy/synonym (2).txt:53 | legacy/synonym (4).txt:159
+योग्य	उपयुक्त	pending		legacy/Mahabharat/sy.txt:14
+रखवाली	निगरानी	pending		legacy/Nisarga/synonymmmu.txt:6
+रखवाली	संरक्षण	pending		legacy/Nisarga/synonymmmu.txt:16
+रथ	गाड़ी	review	related: chariot vs cart/vehicle	legacy/synonym (4).txt:182
+रथ	वाहन	review	related: chariot vs vehicle (broader term)	legacy/Mahabharat/sy.txt:164
+राजकाज	राज्य कार्य	review	phrase vs single word	legacy/synonym (4).txt:195
+राजतिलक	राज्याभिषेक	pending		legacy/Mahabharat/sy.txt:27
+राजपुत्र	राजकुमार	pending		legacy/synonym (2).txt:13 | legacy/synonym (4).txt:45
+राजप्रासाद	महल	pending		legacy/synonym (2).txt:33 | legacy/synonym (4).txt:65
+राजा	नरेश	pending		legacy/synonym (4).txt:12 | legacy/Mahabharat/sy.txt:28
+राजा	नृप	pending		legacy/synonym (2).txt:40 | legacy/synonym (4).txt:146
+राजा	महाराज	pending		legacy/synonym (4).txt:169 | legacy/synonym (4).txt:201 | legacy/synonym (4).txt:220
+राजा दशरथ	महाराज सूर्यवंशी दशरथ	review	phrase vs single word	legacy/synonym (4).txt:193
+राजी	संतुष्ट	pending		legacy/Nisarga/synonymmmu.txt:113
+राज्य	प्रदेश	pending		legacy/synonym (4).txt:278 | legacy/Mahabharat/sy.txt:180
+रानी	महारानी	pending		legacy/synonym (4).txt:171 | legacy/Mahabharat/sy.txt:111
+राम	प्रभु राम	review	phrase vs single word	legacy/synonym (4).txt:199
+रास्ता	मार्ग	pending		legacy/Mahabharat/sy.txt:54 | legacy/Mahabharat/sy.txt:156
+रुदन	रोना	pending		legacy/Mahabharat/sy.txt:38
+रूप	रूपांतर	review	meaning: form vs transformation	legacy/synonym (4).txt:291
+रूप	वेश	pending		legacy/synonym (4).txt:276
+रूप	स्वरूप	pending		legacy/Mahabharat/sy.txt:87
+लंबा	विस्तृत	review	meaning: long vs extensive	legacy/Nisarga/synonymmmu.txt:80
+लकड़हारा	दुर्दम्य	review	meaning: woodcutter vs indomitable	legacy/Nisarga/synonymmmu.txt:104
+लकड़हारा	वनकारी	review	garbled: not a standard word	legacy/Nisarga/synonymmmu.txt:29
+लगान	कर	pending		legacy/synonym (4).txt:216
+लज्जा	शर्म	pending		legacy/Mahabharat/sy.txt:119
+लड़खड़ाने	डगमगाने	pending		legacy/synonym (2).txt:51 | legacy/synonym (4).txt:157
+लम्बाई	ऊंचाई	review	meaning: length vs height	legacy/Nisarga/synonymmmu.txt:112
+लाज	शर्म	pending		legacy/Nisarga/synonymmmu.txt:66
+लालच	लोभ	pending		legacy/synonym (4).txt:243
+लूट	ढलाई	review	meaning: loot vs casting	legacy/Mahabharat/sy.txt:59
+लेक	ताल	pending		legacy/synonym (4).txt:284
+लेनदार	उधारी	review	meaning: creditor vs debt	legacy/Nisarga/synonymmmu.txt:90
+लोग	जनता	pending		legacy/synonym (4).txt:315 | legacy/Mahabharat/sy.txt:56
+लोग	लोगों	review	inflection: same word, not a synonym	legacy/Mahabharat/sy.txt:40
+लोमड़ी	सियार	review	meaning: fox vs jackal	legacy/Nisarga/synonymmmu.txt:124
+लौटना	फिरौती	review	meaning: return vs ransom	legacy/synonym (4).txt:7
+वक्त	समय	pending		legacy/synonym (2).txt:5 | legacy/synonym (4).txt:37
+वचन	शब्द	review	ambiguous: वचन here usually means promise	legacy/synonym (4).txt:191
+वरदान	आशीर्वाद	pending		legacy/synonym (4).txt:132
+वर्ष	साल	pending		legacy/synonym (4).txt:11
+वर्षा	बारिश	pending		legacy/synonym (2).txt:32 | legacy/synonym (4).txt:64 | legacy/Mahabharat/sy.txt:107
+वसूल	वसूली	review	inflection: same root, not a synonym	legacy/synonym (4).txt:218
+वस्त्र	कपड़ा	pending		legacy/Mahabharat/sy.txt:120
+वाटिका	बगीचा	pending		legacy/Mahabharat/sy.txt:176
+वानर	कपि	pending		legacy/Mahabharat/sy.txt:167
+वारिस	उत्तराधिकारी	pending		legacy/synonym (2).txt:7 | legacy/synonym (4).txt:39
+वास्तव	असल	pending		legacy/Mahabharat/sy.txt:67
+विचार	सोच	pending		legacy/Mahabharat/sy.txt:25
+विजय	सफलता	pending		legacy/synonym (2).txt:79
+विनती	अनुरोध	pending		legacy/synonym (4).txt:222
+विफल	असफल	pending		legacy/synonym (2).txt:91
+विराजित	प्रदर्शित	review	meaning: seated/enthroned vs displayed	legacy/synonym (4).txt:277
+विरासत	वंशावली	review	meaning: heritage vs genealogy	legacy/synonym (4).txt:301
+विरोध	विपक्ष	review	meaning: opposition vs the opposition party	legacy/synonym (4).txt:229
+विलाप	रोना	pending		legacy/Mahabharat/sy.txt:37
+विवाह	शादी	pending		legacy/synonym (2).txt:45 | legacy/synonym (2).txt:55 | legacy/synonym (4).txt:151 | legacy/Mahabharat/sy.txt:74 | legacy/Nisarga/synonymmmu.txt:103
+विशालकाय	विशाल	pending		legacy/Mahabharat/sy.txt:171
+विश्वास	भरोसा	pending		legacy/Mahabharat/sy.txt:144
+विषय	मुद्दा	pending		legacy/Mahabharat/sy.txt:79
+वीर	बहादुर	pending		legacy/Mahabharat/sy.txt:86
+वीर्य	धातु	review	meaning: semen/valour vs metal	legacy/synonym (2).txt:27 | legacy/synonym (4).txt:59
+वेद	श्रुति	pending		legacy/synonym (4).txt:139
+व्यापार	व्यवसाय	pending		legacy/Nisarga/synonymmmu.txt:87
+शंभर	बहुत ज्यादा	review	"phrase vs single word; garbled: शंभर is Marathi for ""hundred"""	legacy/synonym (4).txt:176
+शक	संदेह	pending		legacy/Mahabharat/sy.txt:143
+शक्ति	ताकत	pending		legacy/Mahabharat/sy.txt:66
+शक्तिशाली	प्रबल	pending		legacy/Mahabharat/sy.txt:166
+शक्तिशाली	बलवान	pending		legacy/synonym (2).txt:73
+शताब्दी	सौ बरस	review	phrase vs single word	legacy/synonym (4).txt:318
+शयन	सोना	pending		legacy/synonym (2).txt:97
+शरीर	देह	pending		legacy/synonym (4).txt:129
+शर्त	निबंधन	review	meaning: condition vs registration	legacy/Mahabharat/sy.txt:196
+शादी	विवाह	pending		legacy/Mahabharat/sy.txt:147 | legacy/Nisarga/synonymmmu.txt:73
+शामिल	सहभागी	pending		legacy/Mahabharat/sy.txt:192
+शासक	सत्ताधारी	pending		legacy/synonym (4).txt:297
+शिकार	शिकारी	review	meaning: hunt/prey vs hunter	legacy/Nisarga/synonymmmu.txt:2
+शिकार	हत्या	review	meaning: hunt vs murder	legacy/Nisarga/synonymmmu.txt:18
+शिलाखंडों	चट्टान	pending		legacy/synonym (2).txt:82
+शिशु	बच्चा	pending		legacy/Mahabharat/sy.txt:84
+शुरूवात	प्रारंभ	pending		legacy/synonym (4).txt:9
+शेख	विद्वान	review	meaning: sheikh vs scholar	legacy/synonym (4).txt:311
+श्रद्धालु	उपासक	pending		legacy/synonym (4).txt:269
+श्रेय	सम्मान	review	meaning: credit vs honour	legacy/Mahabharat/sy.txt:133
+संकटमोचन	विघ्नहर्ता	pending		legacy/synonym (4).txt:252
+संक्षिप्त	लघु	pending		legacy/synonym (2).txt:77
+संगीत	गंधर्वविद्या	pending		legacy/synonym (4).txt:95
+संतती	संतान	pending		legacy/synonym (2).txt:6 | legacy/synonym (4).txt:38
+संतान	अपत्य	pending		legacy/synonym (4).txt:24
+संतान	बच्चे	pending		legacy/synonym (2).txt:76
+संतुष्ट	प्रसन्न	pending		legacy/Mahabharat/sy.txt:183
+संभाल	संभालना	review	inflection: same verb, not a synonym	legacy/Mahabharat/sy.txt:30
+संहार	हत्या	pending		legacy/Mahabharat/sy.txt:65
+सक्षम	क्षमताशाली	pending		legacy/synonym (2).txt:88
+सच	सत्य	pending		legacy/synonym (4).txt:26 | legacy/Mahabharat/sy.txt:97
+सताना	प्रताड़ना	review	POS: verb vs noun	legacy/synonym (4).txt:25
+सपना	ख्वाब	pending		legacy/Mahabharat/sy.txt:32
+सभा	समारोह	review	meaning: assembly vs ceremony	legacy/Mahabharat/sy.txt:116
+सभासद	सदस्य	pending		legacy/Mahabharat/sy.txt:182
+समक्ष	सामने	pending		legacy/synonym (4).txt:227 | legacy/Mahabharat/sy.txt:26
+समझ	बुद्धि	pending		legacy/Mahabharat/sy.txt:3
+समझ	बोध	pending		legacy/synonym (4).txt:85
+समझदार	बुद्धिमान	pending		legacy/Nisarga/synonymmmu.txt:54
+समझना	अवकलन	review	meaning: understand vs differentiation (maths term)	legacy/synonym (4).txt:16
+समय	वक़्त	pending		legacy/Nisarga/synonymmmu.txt:19
+समय	वक्त	pending		legacy/synonym (4).txt:316 | legacy/Mahabharat/sy.txt:17
+समर्पण	अर्पण	pending		legacy/synonym (4).txt:131
+समर्पित	प्रदान करना	review	phrase vs single word; POS: adjective (dedicated) vs verb phrase	legacy/synonym (4).txt:303
+समाचार	ख़बर	pending		legacy/synonym (4).txt:161
+समुद्र	जलसमुद्र	pending		legacy/Nisarga/synonymmmu.txt:83
+सम्मान	आदर	pending		legacy/synonym (2).txt:21 | legacy/synonym (4).txt:53
+सरोवर	तालाब	pending		legacy/Mahabharat/sy.txt:155
+सर्वशक्तिमान	बलशाली	review	meaning: almighty vs strong	legacy/synonym (4).txt:133
+सर्वश्रेष्ठ	उत्कृष्ट	pending		legacy/Mahabharat/sy.txt:168
+सर्वश्रेष्ठ	सर्वोत्तम	pending		legacy/synonym (4).txt:134
+सहजता	सरलता	pending		legacy/synonym (2).txt:81
+सहर्ष	सहमति	review	meaning: gladly vs consent	legacy/synonym (2).txt:94
+सहायता	मदद	pending		legacy/synonym (2).txt:19 | legacy/synonym (2).txt:48 | legacy/synonym (4).txt:51 | legacy/synonym (4).txt:154
+सहायता	सहायकता	review	garbled: not a standard word	legacy/synonym (4).txt:174
+सहेली	सख	review	garbled: truncated word (सखी)	legacy/synonym (2).txt:64
+सांस	श्वास	pending		legacy/Mahabharat/sy.txt:92
+साथ	संग	pending		legacy/Nisarga/synonymmmu.txt:105 | legacy/Nisarga/synonymmmu.txt:115
+साधु	संत	pending		legacy/Mahabharat/sy.txt:48
+सामने	समक्ष	pending		legacy/synonym (4).txt:130
+सारङ्ग	हल	review	meaning: Saranga (bow/deer) vs plough	legacy/synonym (2).txt:26 | legacy/synonym (4).txt:58
+सारथी	चालक	pending		legacy/Mahabharat/sy.txt:12
+सारथी	रथ चालक	review	phrase vs single word	legacy/synonym (2).txt:49 | legacy/synonym (4).txt:155
+साल	वर्ष	pending		legacy/synonym (2).txt:15 | legacy/synonym (4).txt:47 | legacy/synonym (4).txt:192 | legacy/synonym (4).txt:215
+सालभर	एक वर्ष	review	phrase vs single word	legacy/synonym (4).txt:233
+सिपाही	योद्धा	pending		legacy/synonym (4).txt:13
+सिर	सर	pending		legacy/synonym (4).txt:127 | legacy/Mahabharat/sy.txt:43
+सिर्फ़	केवल	pending		legacy/synonym (4).txt:239
+सीख	ज्ञान	review	meaning: lesson vs knowledge	legacy/Mahabharat/sy.txt:201
+सीख	शिक्षा	pending		legacy/synonym (4).txt:90
+सीढ़ी	पायदान	pending		legacy/synonym (4).txt:259
+सुंदर	ख़ूबसूरत	pending		legacy/synonym (2).txt:36 | legacy/synonym (2).txt:60 | legacy/synonym (4).txt:142
+सुंदर	सुखद	review	meaning: beautiful vs pleasant	legacy/Nisarga/synonymmmu.txt:98
+सुत	पुत्र	pending		legacy/synonym (2).txt:10 | legacy/synonym (4).txt:42
+सुनी	श्रुत	pending		legacy/synonym (4).txt:82
+सुन्दर	ख़ूबसूरत	pending		legacy/synonym (2).txt:75
+सुबह	प्रभात	pending		legacy/Nisarga/synonymmmu.txt:117
+सुरक्षा	रक्षा	pending		legacy/Nisarga/synonymmmu.txt:58
+सुशोभा	प्रभा	review	garbled: not a standard word	legacy/synonym (4).txt:264
+सूचित	बताना	review	POS: adjective (informed) vs verb	legacy/synonym (2).txt:85
+सेतु	पुल	pending		legacy/Mahabharat/sy.txt:163
+सेना	फौज	pending		legacy/Mahabharat/sy.txt:10
+सेनापती	नायक	pending		legacy/synonym (4).txt:213
+सेवा	दास्य	review	meaning: service vs servitude	legacy/synonym (2).txt:46 | legacy/synonym (4).txt:152
+सोना	कनक	review	ambiguous: सोना also means sleep	legacy/Mahabharat/sy.txt:104
+सौंप	सौंपा	review	inflection: same verb, not a synonym	legacy/synonym (4).txt:197
+स्त्री	नारी	pending		legacy/Mahabharat/sy.txt:53
+स्थापित	स्थापना	review	POS: adjective vs noun	legacy/Mahabharat/sy.txt:204
+स्थित	वर्तमान	review	meaning: located vs present/current	legacy/synonym (4).txt:308
+स्थित	विद्यमान	pending		legacy/synonym (4).txt:258
+स्वयं	खुद	pending		legacy/Mahabharat/sy.txt:11
+स्वागत	अगवानी	pending		legacy/synonym (4).txt:96
+स्वादिष्ट	स्वादपूर्ण	pending		legacy/Nisarga/synonymmmu.txt:12
+हथियार	शस्त्र	pending		legacy/Mahabharat/sy.txt:15 | legacy/Mahabharat/sy.txt:23
+हमेशा	सदैव	pending		legacy/synonym (4).txt:262
+हरण	लूट	review	meaning: abduction vs loot	legacy/Mahabharat/sy.txt:118
+हांफ	सांस लेना	review	phrase vs single word; meaning: pant vs breathe	legacy/Mahabharat/sy.txt:178
+हाथ	दस्तक	review	meaning: hand vs knock	legacy/synonym (4).txt:240
+हाथ	बाजू	review	meaning: hand vs arm	legacy/Mahabharat/sy.txt:71 | legacy/Mahabharat/sy.txt:140
+हार	असफलता	pending		legacy/synonym (4).txt:234
+हार	पराजय	pending		legacy/Mahabharat/sy.txt:109
+हिंसा	उत्पीड़न	review	meaning: violence vs oppression	legacy/Mahabharat/sy.txt:34
+हिस्सा	भाग	pending		legacy/synonym (4).txt:299
+हैरान	अचंभित	pending		legacy/Nisarga/synonymmmu.txt:36
+होटल	आवास	review	meaning: hotel vs accommodation	legacy/Nisarga/synonymmmu.txt:121
+होशियार	निपुण	pending		legacy/synonym (2).txt:62
+हौसला	साहस	pending		legacy/synonym (4).txt:208
