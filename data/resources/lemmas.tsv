@@ -1,0 +1,487 @@
+word	target	status	reason	sources
+अंगूठियाँ	अंगूठी	pending		legacy/lemma (2).txt:333
+अंग्रेज़ों	अंग्रेज	pending		legacy/lemma.txt:172
+अंततः	अंत	pending		legacy/Mahabharat/lemma (3).txt:5
+अच्छाई	अच्छा	pending		legacy/lemma (2).txt:274
+अच्छे	अच्छा	pending		legacy/Nisarga/lemmuu.txt:233
+अध्यापिकाएं	अध्यापिका	pending		legacy/lemma (2).txt:196
+अन्तत	अंत में	review	phrase vs single word	legacy/lemma.txt:239
+अपनी	अपना	pending		legacy/Nisarga/lemmuu.txt:272
+अपमानित	अपमान	pending		legacy/lemma (2).txt:203 | legacy/lemma (2).txt:230
+अफ़सरों	अफ़सर	pending		legacy/lemma.txt:177
+असुरों	असुर	pending		legacy/lemma.txt:150 | legacy/lemma (2).txt:225 | legacy/lemma (2).txt:252
+अहंकारी	अहंकार	pending		legacy/lemma (2).txt:204 | legacy/lemma (2).txt:231
+आ	आना	pending		legacy/Nisarga/lemmuu.txt:186
+आँखें	आँख	pending		legacy/lemma.txt:220 | legacy/Nisarga/lemmuu.txt:112
+आँखों	आँख	pending		legacy/lemma (2).txt:289
+आई	आयी	pending		legacy/lemma.txt:115 | legacy/lemma (2).txt:115
+आएगा	आ	review	conflicting lemmas: also आना	legacy/lemma (2).txt:159
+आएगा	आना	review	conflicting lemmas: also आ	legacy/lemma.txt:184
+आख़िरी	आख़िर	pending		legacy/Mahabharat/lemma (3).txt:64
+आते	आ	pending		legacy/Mahabharat/lemma (3).txt:117
+आधी	आधा	pending		legacy/lemma.txt:187
+आने	आ	pending		legacy/Mahabharat/lemma (3).txt:20 | legacy/Mahabharat/lemma (3).txt:118
+आपको	आप	pending		legacy/Mahabharat/lemma (3).txt:70
+आया	आ	review	conflicting lemmas: also आना	legacy/Mahabharat/lemma (3).txt:48
+आया	आना	review	conflicting lemmas: also आ	legacy/lemma.txt:211 | legacy/lemma.txt:236
+आये	आना	pending		legacy/lemma.txt:237
+इतिहासकारों	इतिहासकार	pending		legacy/lemma.txt:225
+उंगलियों	उंगलि	pending		legacy/Nisarga/lemmuu.txt:129
+उठकर	उठना	pending		legacy/Nisarga/lemmuu.txt:247
+उठा	उठ	pending		legacy/Mahabharat/lemma (3).txt:76 | legacy/Mahabharat/lemma (3).txt:126
+उठाकर	उठ	pending		legacy/Mahabharat/lemma (3).txt:14
+उठाने	उठ	pending		legacy/Mahabharat/lemma (3).txt:9
+उठाया	उठ	pending		legacy/Mahabharat/lemma (3).txt:78
+उठेगा	उठना	pending		legacy/Nisarga/lemmuu.txt:259
+उत्तराधिकारी	उत्तराधिकार	pending		legacy/lemma.txt:206
+उदासी	उदास	pending		legacy/lemma.txt:168 | legacy/lemma (2).txt:183
+उदित	उदय	pending		legacy/Mahabharat/lemma (3).txt:11
+उनसे	उन	pending		legacy/Mahabharat/lemma (3).txt:137
+उल्टे	उल्ट	pending		legacy/Mahabharat/lemma (3).txt:49
+उसने	उस	pending		legacy/Mahabharat/lemma (3).txt:103 | legacy/Mahabharat/lemma (3).txt:125
+ऋषियों	ऋषि	review	conflicting lemmas: also ऋषिय	legacy/lemma.txt:101 | legacy/lemma (2).txt:101 | legacy/Mahabharat/lemma (3).txt:35
+ऋषियों	ऋषिय	review	conflicting lemmas: also ऋषि	legacy/lemma (2).txt:306
+कपडे	कपड़ा	pending		legacy/Mahabharat/lemma (3).txt:88
+कमजोरी	कमजोर	pending		legacy/Mahabharat/lemma (3).txt:168
+करते	करना	pending		legacy/lemma (2).txt:285
+करने	करना	pending		legacy/lemma (2).txt:266 | legacy/lemma (2).txt:298
+करवाकर	कर	pending		legacy/Mahabharat/lemma (3).txt:58
+करवाना	कर	pending		legacy/Mahabharat/lemma (3).txt:53
+करवाने	करवा	pending		legacy/lemma.txt:174
+करवाया	करना	review	conflicting lemmas: also करवाना	legacy/lemma.txt:45 | legacy/lemma (2).txt:45
+करवाया	करवाना	review	conflicting lemmas: also करना	legacy/lemma.txt:207
+कराने	कर	pending		legacy/Mahabharat/lemma (3).txt:37
+करे	करना	pending		legacy/lemma (2).txt:260
+करेंगा	करेगा	pending		legacy/lemma (2).txt:323
+करेगा	कर	pending		legacy/Mahabharat/lemma (3).txt:130
+कर्मेन्द्रियां	कर्मेन्द्रिय	pending		legacy/lemma (2).txt:178
+कहता	कह	pending		legacy/Mahabharat/lemma (3).txt:143
+कहने	कह	review	conflicting lemmas: also कहना	legacy/Mahabharat/lemma (3).txt:131
+कहने	कहना	review	conflicting lemmas: also कह	legacy/lemma.txt:102 | legacy/lemma (2).txt:102
+कहा	कहना	pending		legacy/Nisarga/lemmuu.txt:199
+कहानियां	कहानी	pending		legacy/lemma (2).txt:201 | legacy/lemma (2).txt:210 | legacy/lemma (2).txt:228 | legacy/lemma (2).txt:237 | legacy/lemma (2).txt:304
+कहानियों	कहानी	pending		legacy/lemma (2).txt:209 | legacy/lemma (2).txt:236
+कही	कह	pending		legacy/Mahabharat/lemma (3).txt:38
+कहो	कह	pending		legacy/Mahabharat/lemma (3).txt:158
+काट	काटना	pending		legacy/lemma (2).txt:153
+किनारे	किनारा	pending		legacy/lemma.txt:15 | legacy/lemma (2).txt:15
+किये	करना	pending		legacy/lemma.txt:95 | legacy/lemma (2).txt:95
+किले	किला	pending		legacy/Nisarga/lemmuu.txt:164
+किसी	कोई	pending		legacy/lemma.txt:215
+कुत्ते	कुत्ता	pending		legacy/Nisarga/lemmuu.txt:271 | legacy/Nisarga/lemmuu.txt:281 | legacy/Nisarga/lemmuu.txt:290
+कोचीन	कोच्चि	pending		legacy/lemma.txt:244
+कोने	कोण	pending		legacy/lemma (2).txt:294
+कौरवों	कौरव	pending		legacy/Mahabharat/lemma (3).txt:6 | legacy/Mahabharat/lemma (3).txt:107
+खटखटाने	खटखटाना	pending		legacy/Nisarga/lemmuu.txt:91
+खतरों	खतरा	pending		legacy/lemma (2).txt:315
+खाकर	खा	pending		legacy/Mahabharat/lemma (3).txt:150
+खाने	खा	pending		legacy/Mahabharat/lemma (3).txt:98
+खिलाएंगें	खिला	pending		legacy/Mahabharat/lemma (3).txt:112
+खींचते	खींच	pending		legacy/Mahabharat/lemma (3).txt:84
+खींचना	खींच	pending		legacy/Mahabharat/lemma (3).txt:87
+खेलने	खेल	pending		legacy/lemma.txt:178
+खेलूंगी	खेलना	pending		legacy/lemma (2).txt:199
+खेलेंगे	खेल	pending		legacy/lemma (2).txt:169
+खो	खोना	pending		legacy/Nisarga/lemmuu.txt:100
+खोजने	खोजना	pending		legacy/lemma (2).txt:330
+खोल	खोलना	pending		legacy/Nisarga/lemmuu.txt:6 | legacy/Nisarga/lemmuu.txt:161
+गए	गया	review	conflicting lemmas: also जाना	legacy/Nisarga/lemmuu.txt:187
+गए	जाना	review	conflicting lemmas: also गया; lemma does not start like the word	legacy/lemma.txt:73 | legacy/lemma.txt:133 | legacy/lemma (2).txt:73 | legacy/lemma (2).txt:133 | legacy/lemma (2).txt:307
+गड़ी	गड़ना	pending		legacy/lemma.txt:123 | legacy/lemma (2).txt:123
+गया	जाना	review	lemma does not start like the word	legacy/lemma.txt:213 | legacy/Nisarga/lemmuu.txt:244
+गये	गया	pending		legacy/lemma.txt:176 | legacy/lemma (2).txt:277
+गहने	गहना	pending		legacy/Mahabharat/lemma (3).txt:46 | legacy/Nisarga/lemmuu.txt:144
+गांववाले	गांव	pending		legacy/lemma.txt:175
+गिरने	गिरना	pending		legacy/Nisarga/lemmuu.txt:10
+गिरा	गिरना	pending		legacy/lemma (2).txt:328
+गुरुजनों	गुरुजन	pending		legacy/Mahabharat/lemma (3).txt:13
+गुर्राया	गुर्राना	pending		legacy/Nisarga/lemmuu.txt:282
+गूँजी	गूँज	pending		legacy/lemma.txt:147 | legacy/lemma (2).txt:147
+गौरवमयी	गौरवमय	pending		legacy/lemma.txt:227
+घटनाओं	घटना	pending		legacy/lemma.txt:230
+घबराओ	घबराना	pending		legacy/Nisarga/lemmuu.txt:223
+घमंडी	घमंड	pending		legacy/lemma (2).txt:166
+घोड़े	घोड़ा	pending		legacy/lemma (2).txt:216 | legacy/lemma (2).txt:243 | legacy/lemma (2).txt:276
+चढ़नी	चढ़ना	pending		legacy/lemma.txt:194
+चरणों	चरण	pending		legacy/lemma (2).txt:215 | legacy/lemma (2).txt:242
+चल	चलना	pending		legacy/Nisarga/lemmuu.txt:149 | legacy/Nisarga/lemmuu.txt:274
+चलते	चलना	pending		legacy/lemma.txt:110 | legacy/lemma (2).txt:110
+चलना	चल	pending		legacy/Mahabharat/lemma (3).txt:114
+चलने	चल	pending		legacy/Mahabharat/lemma (3).txt:113 | legacy/Mahabharat/lemma (3).txt:145
+चला	चल	pending		legacy/Mahabharat/lemma (3).txt:149
+चलाना	चलना	pending		legacy/lemma.txt:108 | legacy/lemma (2).txt:108
+चलाने	चलाना	pending		legacy/lemma (2).txt:310
+चारों	चार	pending		legacy/Mahabharat/lemma (3).txt:30
+चाहती	चाहना	pending		legacy/lemma (2).txt:259
+चाहते	चाह	review	conflicting lemmas: also चाहना	legacy/lemma.txt:158 | legacy/lemma.txt:181 | legacy/Mahabharat/lemma (3).txt:92 | legacy/Mahabharat/lemma (3).txt:127
+चाहते	चाहना	review	conflicting lemmas: also चाह	legacy/lemma (2).txt:319
+चाहा	चाह	pending		legacy/Mahabharat/lemma (3).txt:121
+चाहिए	चाह	pending		legacy/Mahabharat/lemma (3).txt:162
+चाहें	चाह	pending		legacy/Mahabharat/lemma (3).txt:71
+चिढ़ाती	चिढ़ाना	pending		legacy/lemma (2).txt:195
+चिल्लाता	चिल्ला	pending		legacy/lemma.txt:7 | legacy/lemma (2).txt:7
+चिल्लाने	चिल्ला	pending		legacy/lemma.txt:1 | legacy/lemma (2).txt:1
+चिल्लाया	चिल्ला	pending		legacy/lemma.txt:9 | legacy/lemma (2).txt:9
+चीखने	चीख	pending		legacy/lemma.txt:4 | legacy/lemma (2).txt:4
+चीजों	चीज	pending		legacy/Mahabharat/lemma (3).txt:100
+चुका	चुक	pending		legacy/Mahabharat/lemma (3).txt:123
+चुकी	चुक	pending		legacy/Mahabharat/lemma (3).txt:99
+चुने	चुनना	pending		legacy/lemma (2).txt:217 | legacy/lemma (2).txt:244
+छलिया	छल	pending		legacy/Mahabharat/lemma (3).txt:52
+छुट्टियां	छुट्टी	pending		legacy/lemma (2).txt:211 | legacy/lemma (2).txt:238
+छुट्टियों	छुट्टी	pending		legacy/lemma (2).txt:205 | legacy/lemma (2).txt:232
+छोटी	छोटा	pending		legacy/lemma.txt:186
+छोटे	छोटा	pending		legacy/Mahabharat/lemma (3).txt:82
+छोड़ना	छोड़	pending		legacy/lemma (2).txt:329
+जंगली	जंगल	pending		legacy/Mahabharat/lemma (3).txt:42
+जगा	जगाना	pending		legacy/Nisarga/lemmuu.txt:262
+जगाने	जगाना	pending		legacy/lemma (2).txt:325
+ज़िले	ज़िला	pending		legacy/lemma.txt:216
+ज़ोर	जोर	pending		legacy/Nisarga/lemmuu.txt:265
+जा	जाना	pending		legacy/Nisarga/lemmuu.txt:227
+जाऊंगा	जाना	pending		legacy/lemma (2).txt:296
+जाए	जा	pending		legacy/lemma (2).txt:158 | legacy/Mahabharat/lemma (3).txt:124
+जाएं	जा	pending		legacy/Mahabharat/lemma (3).txt:97
+जाएगा	जा	pending		legacy/lemma.txt:161
+जाग	जागना	pending		legacy/Nisarga/lemmuu.txt:264
+जाता	जा	review	conflicting lemmas: also जाना	legacy/Mahabharat/lemma (3).txt:115 | legacy/Mahabharat/lemma (3).txt:147
+जाता	जाना	review	conflicting lemmas: also जा	legacy/lemma (2).txt:282
+जातियाँ	जाति	pending		legacy/lemma.txt:222
+जादुई	जादु	pending		legacy/Nisarga/lemmuu.txt:97
+जानते	जानना	pending		legacy/lemma (2).txt:309 | legacy/lemma (2).txt:320
+जानने	जानना	pending		legacy/lemma (2).txt:303
+जानवरों	जानवर	pending		legacy/lemma (2).txt:208 | legacy/lemma (2).txt:235
+जाना	जा	pending		legacy/Mahabharat/lemma (3).txt:105
+जाने	जाना	pending		legacy/Nisarga/lemmuu.txt:3
+जिनका	जिसका	pending		legacy/lemma.txt:235
+जीता	जीत	pending		legacy/Mahabharat/lemma (3).txt:47
+जोड़ता	जोड़ना	pending		legacy/lemma (2).txt:286
+ज्ञानेन्द्रियाँ	ज्ञानेन्द्रिय	pending		legacy/lemma (2).txt:177
+झलकने	झलकना	pending		legacy/lemma (2).txt:214 | legacy/lemma (2).txt:241
+झीलों	झील	pending		legacy/lemma.txt:219 | legacy/lemma.txt:224
+टकराने	टकराना	pending		legacy/lemma.txt:113 | legacy/lemma (2).txt:113
+टालने	टाल	pending		legacy/Mahabharat/lemma (3).txt:4
+डरता	डरना	pending		legacy/Nisarga/lemmuu.txt:175
+डराया	डर	pending		legacy/Mahabharat/lemma (3).txt:129
+डालने	दालना	review	lemma does not start like the word	legacy/lemma.txt:76 | legacy/lemma (2).txt:76
+डूब	डूबना	pending		legacy/Nisarga/lemmuu.txt:152
+ढूंढ	ढूंढना	pending		legacy/Nisarga/lemmuu.txt:71
+तालों	ताल	pending		legacy/lemma.txt:218
+तीनों	तीन	pending		legacy/lemma (2).txt:335 | legacy/Nisarga/lemmuu.txt:122
+तीरों	तीर	pending		legacy/Mahabharat/lemma (3).txt:177
+तुम्हारा	तुम	pending		legacy/lemma.txt:185
+तुम्हारे	तुम्	pending		legacy/Mahabharat/lemma (3).txt:144
+तोडू	तोड	pending		legacy/Mahabharat/lemma (3).txt:75
+दरबारी	दरबार	pending		legacy/lemma.txt:208
+दर्शनों	दर्शन	pending		legacy/lemma.txt:183
+दशरथजी	दशरथ	pending		legacy/lemma (2).txt:172
+दानों	दान	pending		legacy/lemma.txt:164
+दिए	देना	pending		legacy/lemma (2).txt:261
+दिखाई	दिख	review	conflicting lemmas: also देखना	legacy/Mahabharat/lemma (3).txt:26
+दिखाई	देखना	review	conflicting lemmas: also दिख	legacy/Nisarga/lemmuu.txt:4
+दिखाने	दिखाना	pending		legacy/lemma (2).txt:267
+दिखाया	दिखाना	pending		legacy/lemma (2).txt:331
+दिनों	दिन	pending		legacy/Nisarga/lemmuu.txt:46
+दिया	देना	pending		legacy/lemma.txt:210 | legacy/lemma (2).txt:302
+दिलाई	दिलाना	pending		legacy/lemma (2).txt:270
+दिलाए	दिलाना	pending		legacy/lemma (2).txt:262
+दिलाया	दिला	pending		legacy/lemma.txt:163 | legacy/Mahabharat/lemma (3).txt:174
+दुखी	दुख	pending		legacy/lemma.txt:169 | legacy/lemma (2).txt:184
+देंगे	दें	pending		legacy/Mahabharat/lemma (3).txt:173
+देकर	देना	pending		legacy/lemma (2).txt:218 | legacy/lemma (2).txt:245
+देखकर	देखना	pending		legacy/Nisarga/lemmuu.txt:267
+देखना	देख	pending		legacy/Mahabharat/lemma (3).txt:161
+देखने	देखना	pending		legacy/lemma (2).txt:287
+देखा	देखना	pending		legacy/lemma.txt:118 | legacy/lemma (2).txt:118
+देते	दे	review	conflicting lemmas: also देना	legacy/lemma.txt:142 | legacy/lemma (2).txt:142
+देते	देना	review	conflicting lemmas: also दे	legacy/lemma (2).txt:301 | legacy/lemma (2).txt:327
+देने	दे	review	conflicting lemmas: also देना	legacy/Mahabharat/lemma (3).txt:8
+देने	देना	review	conflicting lemmas: also दे	legacy/lemma (2).txt:256 | legacy/lemma (2).txt:308 | legacy/lemma (2).txt:312
+देवताओं	देव	review	conflicting lemmas: also देवता	legacy/lemma.txt:149
+देवताओं	देवता	review	conflicting lemmas: also देव	legacy/lemma.txt:240 | legacy/lemma (2).txt:224 | legacy/lemma (2).txt:251 | legacy/Mahabharat/lemma (3).txt:36
+दोनों	दो	pending		legacy/Mahabharat/lemma (3).txt:1 | legacy/Mahabharat/lemma (3).txt:109 | legacy/Nisarga/lemmuu.txt:135
+दोबारा	दो	pending		legacy/Mahabharat/lemma (3).txt:77
+दोस्तों	दोस्त	pending		legacy/Nisarga/lemmuu.txt:123
+धोखे	धोखा	pending		legacy/Mahabharat/lemma (3).txt:56
+धोने	धोना	pending		legacy/lemma.txt:190
+नगरी	नगर	pending		legacy/lemma.txt:167 | legacy/lemma.txt:189 | legacy/lemma (2).txt:188
+निकली	निकलना	pending		legacy/lemma (2).txt:197
+निकाला	निकालना	pending		legacy/lemma.txt:127 | legacy/lemma (2).txt:127
+निकाले	निकाल	pending		legacy/Mahabharat/lemma (3).txt:172
+निडरता	निडर	pending		legacy/Mahabharat/lemma (3).txt:166
+निभाने	निभाना	pending		legacy/lemma (2).txt:269
+निशाना	निशान	pending		legacy/Mahabharat/lemma (3).txt:169
+पकड़ना	पकड़	pending		legacy/Mahabharat/lemma (3).txt:120
+पक्षियों	पक्षी	pending		legacy/lemma (2).txt:207 | legacy/lemma (2).txt:234
+पक्षों	पक्ष	pending		legacy/Mahabharat/lemma (3).txt:2
+पड़ती	पड़ना	pending		legacy/lemma.txt:195
+पड़ा	पड़	pending		legacy/Mahabharat/lemma (3).txt:51
+पड़ी	पड़ना	pending		legacy/Nisarga/lemmuu.txt:2
+पड़े	पड़	review	conflicting lemmas: also पड़ना	legacy/lemma.txt:154
+पड़े	पड़ना	review	conflicting lemmas: also पड़	legacy/lemma (2).txt:255
+पड़ेगा	पड़	review	conflicting lemmas: also पड़ना	legacy/Mahabharat/lemma (3).txt:16
+पड़ेगा	पड़ना	review	conflicting lemmas: also पड़	legacy/lemma.txt:162
+पढ़ती	पढ़ना	pending		legacy/lemma (2).txt:189
+पढ़ने	पढ़ना	pending		legacy/lemma (2).txt:190
+पढ़नेलिखने	पढ़ना-लिखना	pending		legacy/lemma (2).txt:191
+पत्तियां	पत्ती	pending		legacy/lemma (2).txt:212 | legacy/lemma (2).txt:239
+पत्नीयां	पत्नी	pending		legacy/lemma.txt:27 | legacy/lemma (2).txt:27
+पत्नीयों	पत्नी	pending		legacy/lemma.txt:47 | legacy/lemma (2).txt:47
+पन्ने	पन्ना	pending		legacy/lemma (2).txt:154
+परगने	परगना	pending		legacy/lemma.txt:217
+पर्यटकों	पर्यटक	pending		legacy/lemma.txt:223
+पसन्द	पसंद	pending		legacy/Nisarga/lemmuu.txt:168
+पहली	पहला	pending		legacy/lemma.txt:50 | legacy/lemma (2).txt:50
+पहाड़ियों	पहाड़	pending		legacy/lemma.txt:3 | legacy/lemma (2).txt:3
+पहाड़ी	पहाड़	pending		legacy/lemma.txt:8 | legacy/lemma (2).txt:8 | legacy/Nisarga/lemmuu.txt:7
+पहाड़ों	पहाड़	pending		legacy/lemma.txt:221
+पहिये	पहिया	pending		legacy/lemma (2).txt:181
+पहुँचाने	पहुँचाना	pending		legacy/lemma (2).txt:202 | legacy/lemma (2).txt:229
+पहुंचने	पहुँचना	pending		legacy/lemma.txt:192
+पहुंचा	पहुंच	pending		legacy/lemma (2).txt:151
+पहुंचाया	पहुँच	pending		legacy/lemma (2).txt:157
+पहुंची	पहुंच	pending		legacy/lemma (2).txt:161
+पहुंचे	पहुंच	review	conflicting lemmas: also पहुंचा	legacy/lemma (2).txt:164 | legacy/Mahabharat/lemma (3).txt:67
+पहुंचे	पहुंचा	review	conflicting lemmas: also पहुंच	legacy/lemma (2).txt:278
+पांडवों	पांडव	pending		legacy/lemma.txt:204 | legacy/Mahabharat/lemma (3).txt:7 | legacy/Mahabharat/lemma (3).txt:108
+पाएगा	पाना	pending		legacy/lemma (2).txt:180
+पाने	पा	review	conflicting lemmas: also पाना	legacy/Mahabharat/lemma (3).txt:128
+पाने	पाना	review	conflicting lemmas: also पा	legacy/lemma.txt:134 | legacy/lemma (2).txt:134
+पाया	पा	review	conflicting lemmas: also पाना	legacy/Mahabharat/lemma (3).txt:55 | legacy/Mahabharat/lemma (3).txt:89
+पाया	पाना	review	conflicting lemmas: also पा	legacy/Nisarga/lemmuu.txt:48
+पासों	पासा	pending		legacy/Mahabharat/lemma (3).txt:81
+पिंजरे	पिंजरा	pending		legacy/Nisarga/lemmuu.txt:1
+पिटना	पीट	pending		legacy/Mahabharat/lemma (3).txt:50
+पीटा	पीट	pending		legacy/Mahabharat/lemma (3).txt:44
+पीती	पीना	pending		legacy/Nisarga/lemmuu.txt:55
+पुकारा	पुकारना	pending		legacy/lemma.txt:238
+पुत्रों	पुत्र	pending		legacy/Mahabharat/lemma (3).txt:95
+पुरातात्विक	पुरातत्त्व	pending		legacy/lemma.txt:205
+पूछा	पूछ	pending		legacy/Mahabharat/lemma (3).txt:32 | legacy/Mahabharat/lemma (3).txt:68
+पूछेंगे	पूछ	pending		legacy/Mahabharat/lemma (3).txt:61
+पैसे	पैसा	pending		legacy/Nisarga/lemmuu.txt:153 | legacy/Nisarga/lemmuu.txt:221
+पैसों	पैसा	pending		legacy/Nisarga/lemmuu.txt:138
+प्यारी	प्यार	pending		legacy/Nisarga/lemmuu.txt:92
+प्राचीनतम	प्राचीन	pending		legacy/lemma.txt:203
+प्राणियों	प्राणी	pending		legacy/lemma (2).txt:299
+प्राप्ति	प्राप्त	pending		legacy/lemma (2).txt:334
+फटकारे	फटकार	pending		legacy/lemma.txt:2 | legacy/lemma (2).txt:2
+फूल	माला	review	conflicting lemmas: also मालाओं; lemma does not start like the word	legacy/lemma.txt:197
+फूल	मालाओं	review	conflicting lemmas: also माला; lemma does not start like the word	legacy/lemma.txt:196
+फेंके	फेंक	pending		legacy/lemma (2).txt:291
+बचा	बच	pending		legacy/Mahabharat/lemma (3).txt:175
+बचाकर	बचाना	pending		legacy/Nisarga/lemmuu.txt:12
+बचाने	बचाना	pending		legacy/lemma (2).txt:185 | legacy/lemma (2).txt:340
+बचाव	बच	pending		legacy/lemma.txt:5 | legacy/lemma (2).txt:5
+बच्चे	बच्चा	pending		legacy/lemma.txt:6 | legacy/lemma (2).txt:6 | legacy/Mahabharat/lemma (3).txt:60
+बच्चों	बच्चा	pending		legacy/Mahabharat/lemma (3).txt:22
+बड़ा	बड़	pending		legacy/Mahabharat/lemma (3).txt:63
+बड़े	बड़	pending		legacy/Mahabharat/lemma (3).txt:140
+बताई	बता	review	conflicting lemmas: also बताना	legacy/Mahabharat/lemma (3).txt:33
+बताई	बताना	review	conflicting lemmas: also बता	legacy/lemma (2).txt:152
+बताते	बत	pending		legacy/Mahabharat/lemma (3).txt:160
+बताना	बता	pending		legacy/Mahabharat/lemma (3).txt:91
+बताया	बता	review	conflicting lemmas: also बताना	legacy/lemma (2).txt:280 | legacy/Mahabharat/lemma (3).txt:31
+बताया	बताना	review	conflicting lemmas: also बता	legacy/lemma (2).txt:155
+बदकिस्मती	बदकिस्मत	pending		legacy/Nisarga/lemmuu.txt:150
+बदले	बदल	pending		legacy/Mahabharat/lemma (3).txt:176
+बनने	बन	review	conflicting lemmas: also बनना	legacy/lemma.txt:160 | legacy/Mahabharat/lemma (3).txt:96
+बनने	बनना	review	conflicting lemmas: also बन	legacy/lemma.txt:246
+बनवाई	बनाना	pending		legacy/lemma (2).txt:283
+बना	बन	pending		legacy/Mahabharat/lemma (3).txt:135 | legacy/Mahabharat/lemma (3).txt:142
+बनाई	बन	pending		legacy/Mahabharat/lemma (3).txt:90
+बनाए	बन	pending		legacy/Mahabharat/lemma (3).txt:167
+बनाकर	बना	pending		legacy/Mahabharat/lemma (3).txt:111
+बनाते	बना	pending		legacy/Mahabharat/lemma (3).txt:170
+बनाने	बनाना	pending		legacy/lemma (2).txt:264 | legacy/lemma (2).txt:316
+बनाया	बन	review	conflicting lemmas: also बना, बनाना	legacy/Mahabharat/lemma (3).txt:139
+बनाया	बना	review	conflicting lemmas: also बन, बनाना	legacy/Mahabharat/lemma (3).txt:116
+बनाया	बनाना	review	conflicting lemmas: also बन, बना	legacy/lemma.txt:241
+बनी	बनना	pending		legacy/lemma.txt:245
+बसा	रहना	review	lemma does not start like the word	legacy/lemma.txt:212
+बहा	बह	pending		legacy/Mahabharat/lemma (3).txt:62
+बांधने	बांधना	pending		legacy/lemma (2).txt:322
+बाणों	बाण	pending		legacy/Mahabharat/lemma (3).txt:141
+बातों	बात	pending		legacy/Mahabharat/lemma (3).txt:93
+बार	समय	review	lemma does not start like the word	legacy/Nisarga/lemmuu.txt:39
+बारे	बार	pending		legacy/Mahabharat/lemma (3).txt:101 | legacy/Mahabharat/lemma (3).txt:119
+बालकों	बालक्	pending		legacy/lemma (2).txt:279
+बालों	बाल	pending		legacy/Mahabharat/lemma (3).txt:83
+बिना	बिन	pending		legacy/Mahabharat/lemma (3).txt:86
+बिलखते	बिलख	pending		legacy/Mahabharat/lemma (3).txt:25
+बुढ़ापे	बुढ़ापा	pending		legacy/Nisarga/lemmuu.txt:44
+बुरा	बुर	pending		legacy/Mahabharat/lemma (3).txt:74
+बुराई	बुरा	pending		legacy/lemma (2).txt:273
+बुरी	बुर	pending		legacy/Mahabharat/lemma (3).txt:24
+बुरे	बुर	pending		legacy/Mahabharat/lemma (3).txt:18
+बुलाया	बुलाना	pending		legacy/lemma (2).txt:171
+बेटे	बेटा	pending		legacy/lemma.txt:139 | legacy/lemma (2).txt:139
+बेटों	बेटा	pending		legacy/lemma (2).txt:257
+बैठ	बैठना	pending		legacy/lemma (2).txt:297
+बैठकर	बैठना	pending		legacy/Nisarga/lemmuu.txt:8
+बोला	बोल	pending		legacy/lemma.txt:145 | legacy/lemma (2).txt:145
+बोली	बोल	pending		legacy/lemma.txt:159
+भगाने	भगा	pending		legacy/Mahabharat/lemma (3).txt:156
+भतीजे	भतीजा	pending		legacy/Mahabharat/lemma (3).txt:164
+भाइयों	भाई	pending		legacy/lemma (2).txt:160 | legacy/Mahabharat/lemma (3).txt:12
+भाग	भागना	pending		legacy/Nisarga/lemmuu.txt:270
+भागा	भाग	pending		legacy/lemma.txt:146 | legacy/lemma (2).txt:146 | legacy/lemma (2).txt:150
+भेड़िये	भेड़	pending		legacy/Nisarga/lemmuu.txt:57
+भौंकने	भौंकना	pending		legacy/Nisarga/lemmuu.txt:266
+मचाने	मच	pending		legacy/Mahabharat/lemma (3).txt:151
+मनाया	मनाना	pending		legacy/lemma.txt:188 | legacy/lemma (2).txt:314
+मनोकामनाएं	मनोकामना	pending		legacy/lemma.txt:201
+मरने	मर	pending		legacy/Mahabharat/lemma (3).txt:94
+महानगरों	महानगर	pending		legacy/lemma.txt:226
+माँगा	माँग	pending		legacy/Mahabharat/lemma (3).txt:73
+मांगने	मांग	review	conflicting lemmas: also मांगना	legacy/lemma.txt:165 | legacy/lemma (2).txt:174
+मांगने	मांगना	review	conflicting lemmas: also मांग	legacy/lemma (2).txt:227 | legacy/lemma (2).txt:254 | legacy/lemma (2).txt:263
+मांगी	मांग	review	conflicting lemmas: also मांगना	legacy/Mahabharat/lemma (3).txt:138
+मांगी	मांगना	review	conflicting lemmas: also मांग	legacy/lemma.txt:81 | legacy/lemma (2).txt:81
+मांगे	माँगना	pending		legacy/lemma (2).txt:221 | legacy/lemma (2).txt:248
+मांगेगे	मांगना	pending		legacy/lemma (2).txt:321
+मान	मानना	pending		legacy/lemma.txt:86 | legacy/lemma (2).txt:86
+माना	मानना	pending		legacy/lemma (2).txt:275
+माफ	माफ़	pending		legacy/Nisarga/lemmuu.txt:256
+मारा	मार	pending		legacy/lemma (2).txt:149 | legacy/Mahabharat/lemma (3).txt:79
+मित्रों	मित्र	pending		legacy/Nisarga/lemmuu.txt:139
+मिलकर	मिल	review	conflicting lemmas: also मिलाकर	legacy/Mahabharat/lemma (3).txt:85
+मिलकर	मिलाकर	review	conflicting lemmas: also मिल	legacy/lemma.txt:234
+मिलता	मिल	pending		legacy/lemma.txt:143 | legacy/lemma (2).txt:143
+मिलना	मिल	pending		legacy/lemma.txt:140 | legacy/lemma (2).txt:140
+मिलनी	मिल	pending		legacy/Mahabharat/lemma (3).txt:163
+मिलने	मिल	review	conflicting lemmas: also मिलना	legacy/lemma.txt:170
+मिलने	मिलना	review	conflicting lemmas: also मिल	legacy/lemma (2).txt:339
+मिला	मिलना	pending		legacy/Nisarga/lemmuu.txt:231
+मिली	मिल	review	conflicting lemmas: also मिलना	legacy/Mahabharat/lemma (3).txt:102
+मिली	मिलना	review	conflicting lemmas: also मिल	legacy/lemma.txt:124 | legacy/lemma (2).txt:124
+मिले	मिलना	pending		legacy/lemma (2).txt:281
+मुकरना	मुकर	pending		legacy/lemma.txt:180
+मुक्के	मुक्का	pending		legacy/Mahabharat/lemma (3).txt:148
+मुर्गियाँ	मुर्गि	pending		legacy/Nisarga/lemmuu.txt:79
+मुर्गे	मुर्गा	pending		legacy/Nisarga/lemmuu.txt:255
+मूर्खों	मूर्ख	pending		legacy/lemma (2).txt:222 | legacy/lemma (2).txt:249
+मेरी	मेरा	pending		legacy/Nisarga/lemmuu.txt:64
+मेरे	मेरा	pending		legacy/Nisarga/lemmuu.txt:62
+मोतियों	मोती	pending		legacy/Mahabharat/lemma (3).txt:122
+मौके	मौका	pending		legacy/Nisarga/lemmuu.txt:87
+रखते	रख	pending		legacy/Mahabharat/lemma (3).txt:146
+रखा	रख	review	conflicting lemmas: also रखना	legacy/Mahabharat/lemma (3).txt:15
+रखा	रखना	review	conflicting lemmas: also रख	legacy/lemma.txt:138 | legacy/lemma (2).txt:138
+रखेगा	रखना	pending		legacy/lemma (2).txt:179
+रह	रहना	pending		legacy/lemma (2).txt:265
+रहती	रहना	pending		legacy/lemma.txt:199
+रहते	रह	pending		legacy/Mahabharat/lemma (3).txt:132
+रहने	रह	review	conflicting lemmas: also रेहाना	legacy/Mahabharat/lemma (3).txt:29
+रहने	रेहाना	review	conflicting lemmas: also रह	legacy/lemma (2).txt:313
+रहा	रहना	pending		legacy/Nisarga/lemmuu.txt:228
+रही	रह	review	conflicting lemmas: also रहना	legacy/Mahabharat/lemma (3).txt:104
+रही	रहना	review	conflicting lemmas: also रह	legacy/lemma.txt:242 | legacy/lemma (2).txt:268
+रहोगे	रहना	pending		legacy/lemma (2).txt:295
+राक्षसों	राक्षस	pending		legacy/lemma.txt:77 | legacy/lemma.txt:87 | legacy/lemma (2).txt:77 | legacy/lemma (2).txt:87
+रानियों	रानी	pending		legacy/lemma (2).txt:336
+रासो	रास	pending		legacy/lemma.txt:209
+रास्ते	रास्ता	pending		legacy/Mahabharat/lemma (3).txt:41 | legacy/Nisarga/lemmuu.txt:229
+रूपये	रुपया	pending		legacy/lemma (2).txt:220 | legacy/lemma (2).txt:247
+रोकने	रोकना	pending		legacy/lemma (2).txt:311
+लक्कड़हारे	लक्कड़हारा	pending		legacy/Nisarga/lemmuu.txt:5
+लगा	लगना	pending		legacy/Nisarga/lemmuu.txt:169
+लगातार	लग	pending		legacy/Mahabharat/lemma (3).txt:27
+लगी	लग	review	conflicting lemmas: also लगना	legacy/Mahabharat/lemma (3).txt:80
+लगी	लगना	review	conflicting lemmas: also लग	legacy/lemma.txt:130 | legacy/lemma (2).txt:130
+लगे	लग	pending		legacy/Mahabharat/lemma (3).txt:152
+लड़कियों	लड़की	pending		legacy/lemma (2).txt:193
+लड़खड़ाने	लड़खड़ाना	pending		legacy/lemma (2).txt:173
+लड़ाइयों	लड़ाइ	pending		legacy/lemma.txt:229
+लाखों	लाख	pending		legacy/Mahabharat/lemma (3).txt:54
+लादा	लाद	pending		legacy/Mahabharat/lemma (3).txt:59
+लाने	लाना	pending		legacy/lemma (2).txt:219 | legacy/lemma (2).txt:246
+लिखने	लिखना	pending		legacy/lemma (2).txt:194
+लिया	लेना	pending		legacy/lemma (2).txt:271
+लीजिये	ली	pending		legacy/Mahabharat/lemma (3).txt:72
+लूंगी	लेना	pending		legacy/lemma (2).txt:175
+ले	लेना	pending		legacy/lemma.txt:132 | legacy/lemma (2).txt:132
+लेकर	ले	review	conflicting lemmas: also लेना	legacy/Mahabharat/lemma (3).txt:155
+लेकर	लेना	review	conflicting lemmas: also ले	legacy/Nisarga/lemmuu.txt:9
+लेटे	लेट	pending		legacy/Mahabharat/lemma (3).txt:133
+लेटे-लेटे	लेटना	pending		legacy/Nisarga/lemmuu.txt:120
+लेनदारों	लेनदार	pending		legacy/Nisarga/lemmuu.txt:157
+लेनी	लेना	pending		legacy/lemma.txt:191
+लेने	ले	review	conflicting lemmas: also लेना	legacy/Mahabharat/lemma (3).txt:66
+लेने	लेना	review	conflicting lemmas: also ले	legacy/lemma (2).txt:305 | legacy/lemma (2).txt:326
+लोगों	लोग	pending		legacy/Mahabharat/lemma (3).txt:43 | legacy/Nisarga/lemmuu.txt:103
+लौटने	लौट	pending		legacy/Mahabharat/lemma (3).txt:40
+वर्षों	वर्ष	pending		legacy/lemma (2).txt:317
+वसूलने	वसूल	pending		legacy/lemma.txt:173
+वानरों	वानर	pending		legacy/lemma (2).txt:272
+विजयी	विजय	pending		legacy/lemma (2).txt:288
+विधवाओं	विधवा	pending		legacy/Mahabharat/lemma (3).txt:23
+विराजमान	विराजित	pending		legacy/lemma.txt:202
+शक्तियों	शक्ति	pending		legacy/lemma (2).txt:167
+शक्तिशाली	शक्ति	pending		legacy/lemma.txt:152
+शब्द	उद्गम	review	lemma does not start like the word	legacy/lemma.txt:233
+शासकों	शासक	pending		legacy/lemma.txt:231
+शास्त्रों	शास्त्र	pending		legacy/lemma.txt:61 | legacy/lemma (2).txt:61 | legacy/lemma (2).txt:300
+शिलाखंडों	शिलाखंड	pending		legacy/lemma (2).txt:292
+शुरू	शुरूवात	pending		legacy/lemma.txt:109 | legacy/lemma (2).txt:109
+श्रद्धालुओं	श्रद्धालु	pending		legacy/lemma.txt:200
+संभालने	संभाल	pending		legacy/Mahabharat/lemma (3).txt:17
+संस्कृति	संस्कृत	pending		legacy/lemma.txt:228
+सताती	सताना	pending		legacy/lemma.txt:37 | legacy/lemma (2).txt:37
+सदस्यों	सदस्य	pending		legacy/lemma (2).txt:293
+सन्तों	सन्त	pending		legacy/Mahabharat/lemma (3).txt:34
+सपने	सपना	pending		legacy/Mahabharat/lemma (3).txt:19
+सपनों	सपना	pending		legacy/Mahabharat/lemma (3).txt:21
+समझकर	समझ	pending		legacy/Mahabharat/lemma (3).txt:154
+समझाकर	समझ	pending		legacy/Mahabharat/lemma (3).txt:3
+समझाया	समझाना	pending		legacy/lemma (2).txt:156 | legacy/lemma (2).txt:176 | legacy/lemma (2).txt:186
+समझे	समझना	pending		legacy/lemma (2).txt:223 | legacy/lemma (2).txt:250
+समुद्री	समुद्र	pending		legacy/Nisarga/lemmuu.txt:133 | legacy/Nisarga/lemmuu.txt:141
+सहायता	सहाय	pending		legacy/lemma (2).txt:170
+सहेलियों	सहेली	pending		legacy/lemma (2).txt:198 | legacy/lemma (2).txt:206 | legacy/lemma (2).txt:233
+सांसें	सांस	pending		legacy/Mahabharat/lemma (3).txt:65
+सालों	साल	pending		legacy/lemma.txt:155 | legacy/lemma (2).txt:226 | legacy/lemma (2).txt:253
+सिक्खों	सिक्ख	pending		legacy/lemma.txt:232
+सिद्धियां	सिद्धि	pending		legacy/lemma (2).txt:165
+सिर्फ	सिर्फ़	pending		legacy/Nisarga/lemmuu.txt:296
+सीखी	सीख	pending		legacy/Mahabharat/lemma (3).txt:165
+सीढि़यां	सीढ़ी	pending		legacy/lemma.txt:193
+सुंदरता	सुंदर	pending		legacy/lemma (2).txt:192
+सुख-सुविधाओं	सुख-सुविधा	pending		legacy/lemma (2).txt:341
+सुनकर	सुन	pending		legacy/Mahabharat/lemma (3).txt:153
+सुनते	सुन	review	conflicting lemmas: also सुनना	legacy/lemma.txt:166
+सुनते	सुनना	review	conflicting lemmas: also सुन	legacy/lemma (2).txt:182 | legacy/lemma (2).txt:338
+सुना	सुन	pending		legacy/Mahabharat/lemma (3).txt:69
+सुनाई	सुनना	pending		legacy/Nisarga/lemmuu.txt:11
+सुनी	सुन	pending		legacy/lemma.txt:148 | legacy/lemma (2).txt:148
+सुन्दरता	सुन्दर	pending		legacy/lemma (2).txt:284
+सुविधाओं	सुविधा	pending		legacy/lemma (2).txt:187
+सुशोभित	सुशोभा	pending		legacy/lemma.txt:198
+सेनाओं	सेना	pending		legacy/Mahabharat/lemma (3).txt:110
+सैनिकों	सैनिक	pending		legacy/lemma (2).txt:163
+सो	सोना	pending		legacy/Nisarga/lemmuu.txt:243
+सोची	सोच	pending		legacy/Nisarga/lemmuu.txt:89
+सोती	सोना	pending		legacy/lemma (2).txt:318
+सोने	सोना	pending		legacy/Mahabharat/lemma (3).txt:171
+सौंपने	सौंप	review	conflicting lemmas: also सौंपना	legacy/lemma.txt:156
+सौंपने	सौंपना	review	conflicting lemmas: also सौंप	legacy/lemma (2).txt:258
+सौतेले	सौतेला	pending		legacy/lemma.txt:214
+स्त्रियां	स्त्री	pending		legacy/Mahabharat/lemma (3).txt:45
+स्त्रियों	स्त्री	pending		legacy/Mahabharat/lemma (3).txt:39
+स्वतन्त्रता	स्वतंत्रता	pending		legacy/lemma.txt:243
+स्वप्नों	स्वप्न	pending		legacy/Mahabharat/lemma (3).txt:28
+हंसने	हँसना	pending		legacy/lemma (2).txt:213 | legacy/lemma (2).txt:240
+हटने	हट	pending		legacy/Mahabharat/lemma (3).txt:134
+हटाने	हटाना	pending		legacy/lemma (2).txt:332
+हमारा	हम	pending		legacy/lemma.txt:141 | legacy/lemma (2).txt:141
+हमे	हम	pending		legacy/lemma.txt:144 | legacy/lemma (2).txt:144
+हांफने	हांफ	pending		legacy/Mahabharat/lemma (3).txt:157
+हाथियों	हाथी	pending		legacy/lemma (2).txt:162 | legacy/lemma (2).txt:324
+हाथों	हाथ	pending		legacy/lemma.txt:182 | legacy/lemma (2).txt:337 | legacy/Mahabharat/lemma (3).txt:57
+हारे	हार	pending		legacy/lemma.txt:179
+हिला	हिल	pending		legacy/Mahabharat/lemma (3).txt:136
+हुए	होना	pending		legacy/lemma.txt:49 | legacy/lemma (2).txt:49
+होकर	हो	review	conflicting lemmas: also होना	legacy/Mahabharat/lemma (3).txt:159
+होकर	होना	review	conflicting lemmas: also हो	legacy/lemma (2).txt:168 | legacy/lemma (2).txt:290
+होनेवाला	हो	pending		legacy/Mahabharat/lemma (3).txt:106
+हौसलामन्द	हौसला	pending		legacy/lemma.txt:171

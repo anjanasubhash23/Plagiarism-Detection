@@ -1,0 +1,198 @@
+kind	word	target	reason
+synonym	अंगूठा	उंगली	meaning: thumb vs finger
+synonym	अंजनी	अंजना	spelling: name variant, not a synonym
+synonym	अंत	नतीजा	meaning: end vs result
+synonym	अंतिम	अंत	POS: adjective (final) vs noun (end)
+synonym	अंतिम	आखिर	POS: adjective vs noun/adverb (आखिरी would fit)
+synonym	अचानक	अनपेक्षित	POS: adverb (suddenly) vs adjective (unexpected)
+synonym	अधिकार	आधिपत्य	meaning: right vs dominion
+synonym	अनाथ	अशरण	related: orphan vs without refuge
+synonym	अपमान	बदनाम	POS: noun (insult) vs adjective (infamous)
+synonym	अपमानित	लज्जित	meaning: insulted vs ashamed
+synonym	अहिंसा	निष्ठुरता	meaning: OPPOSITE (non-violence vs cruelty)
+synonym	आँख	नज़र	meaning: eye vs gaze
+synonym	आदर्शवादी	समाजवादी	meaning: idealist vs socialist
+synonym	आदिवासी	आदिम	meaning: tribal vs primitive (also pejorative)
+synonym	आवाज़	शोर	meaning: voice vs noise
+synonym	आश्रम	अश्रय	meaning: hermitage vs shelter (and misspelt आश्रय)
+synonym	इतिहास	ऐतिहासिक	POS: noun (history) vs adjective (historical)
+synonym	उत्सुक	उत्कट	meaning: curious vs intense
+synonym	उदय	विकास	meaning: rise vs development
+synonym	ऊपर	उपर	spelling: misspelling, not a synonym
+synonym	ऋषि	महर्षि	related: sage vs great sage
+synonym	कंकड़	पत्थर	related: pebble vs stone (broader term)
+synonym	कला	कौशल	related: art vs skill
+synonym	कहना	कथन	POS: verb (say) vs noun (statement)
+synonym	क्रोधित	गुस्सा	POS: adjective (angry) vs noun (anger)
+synonym	खटखटाना	खिसकना	meaning: knock vs slip
+synonym	खेल	खेलाड़ी	meaning: game vs player (and misspelt खिलाड़ी)
+synonym	खोज	ढूंढना	POS: noun vs verb
+synonym	खोल	खुला	POS: verb stem (open) vs adjective (open)
+synonym	गद्दी	तक्त	spelling: misspelt तख़्त
+synonym	गहन	अगम्य	meaning: deep vs inaccessible
+synonym	गहना	हार	related: ornament vs necklace (narrower term)
+synonym	गाली	अपमान	related: abuse/swear word vs insult
+synonym	गिर पड़	गिर पड़ना	inflection: same verb, not a synonym
+synonym	गिरना	पात	POS: verb vs noun
+synonym	गुजर	गुज़ारना	meaning: pass (intransitive) vs spend (transitive)
+synonym	गुरुकुल	शिष्यालय	garbled: not a standard word
+synonym	गुर्राना	भौंकना	meaning: growl vs bark
+synonym	गोद	बाहों में	meaning: lap vs in the arms
+synonym	घमंड	अंहकार	spelling: misspelt अहंकार
+synonym	घमंड	गर्व	meaning: arrogance vs (positive) pride
+synonym	घर	बंगला	related: house vs bungalow (narrower term)
+synonym	घूमना	टहलाव	POS: verb vs non-standard noun
+synonym	घोषणा	सूचना	related: announcement vs information
+synonym	चट्टान	पर्वत	meaning: rock vs mountain
+synonym	चिल्ला	शोर	POS: verb (shout) vs noun (noise)
+synonym	चील	गिद्ध	meaning: kite vs vulture
+synonym	चुनौती	प्रत	garbled: truncated word
+synonym	छल	माया	related: deceit vs illusion
+synonym	छिपाना	अवगुंठन	POS: verb (hide) vs noun (veil)
+synonym	छोटा	सूक्ष्म	related: small vs microscopic
+synonym	जन	जनमानस	meaning: people vs public sentiment
+synonym	जागना	जागरण	POS: verb vs noun
+synonym	जादु	जादू	spelling: misspelling, not a synonym
+synonym	जान बचा	जान बचाई	inflection: same phrase, not a synonym
+synonym	जीना	जिंदगी	POS: verb (live) vs noun (life)
+synonym	टाल	स्थगित	POS: verb stem vs adjective
+synonym	टीले	ढेर	meaning: mound vs heap
+synonym	तल	नीचे	POS: noun (bottom) vs adverb (below)
+synonym	दंडकारण्य	जंगल	proper noun: named forest vs generic forest
+synonym	दरवाज़ा	दरवाजे	inflection: same word, not a synonym
+synonym	दरवाज़ा	पट्टी	meaning: door vs strip/bandage
+synonym	दर्शन	दृष्टि	meaning: darshan/philosophy vs eyesight (context-dependent)
+synonym	दशरथ	सूर्यवंशी	proper noun: name vs dynasty epithet
+synonym	दशरथ घायल	सूर्यवंशी घायल	proper noun: name vs dynasty epithet
+synonym	दानवीर	बलिदानी	meaning: generous giver vs self-sacrificer
+synonym	दुर्भाग्य	अशुभता	related: misfortune vs inauspiciousness
+synonym	दुर्भाग्य	दुख	meaning: misfortune vs sorrow
+synonym	दुर्भाग्य	बदकिस्मत	POS: noun vs adjective (बदकिस्मती would fit)
+synonym	दुष्ट	दुर	garbled: truncated word
+synonym	देख	दर्श	garbled: truncated stem
+synonym	देखना	अवकलन	meaning: see vs differentiation (maths term)
+synonym	दो	द्वे	garbled: Sanskrit dual form, not Hindi
+synonym	दौड़	भागना	POS: noun vs verb
+synonym	धनुष	शर	meaning: bow vs arrow
+synonym	धारक	धारिता	meaning: holder vs capacitance
+synonym	धोखा	ठग	meaning: deception vs swindler
+synonym	ध्यान	लगाव	meaning: attention vs attachment
+synonym	नाम	पुकार	meaning: name vs call
+synonym	निःसंतान	निसंतान	spelling: variant spelling, not a synonym
+synonym	निकाल लिया	निकाल दिया	meaning: took out vs threw out
+synonym	निडर	साहसिक	meaning: fearless vs adventurous
+synonym	निराश	हताशा	POS: adjective vs noun
+synonym	नीति	नियम	meaning: policy vs rule
+synonym	पंडित	साधु	meaning: priest/scholar vs ascetic
+synonym	पटक	फेक	meaning: slam vs throw (and misspelt फेंक)
+synonym	पड़ना	गिरना	meaning: lie/happen vs fall (only sometimes equivalent)
+synonym	पराजित	हार	POS: adjective vs noun
+synonym	परिणाम	फलस्वरूप	POS: noun (result) vs adverb (as a result)
+synonym	परिसर	वातावरण	meaning: premises vs environment
+synonym	पर्यटक	दर्शनीय	meaning: tourist vs worth seeing
+synonym	पहनना	आसंजन	meaning: wear vs adhesion
+synonym	पहले प्रमाण	अधिकृत साक्ष्य	meaning: first proof vs authorised evidence
+synonym	पहाड़	शिख	garbled: truncated word
+synonym	पहुंचना	रसाई	POS: verb vs noun
+synonym	पाप	अपराध	meaning: sin vs crime
+synonym	पास	मान्य	meaning: wrong sense (pass an exam) vs valid
+synonym	पिंजरा	क़ैदखाना	meaning: cage vs prison
+synonym	पिता	पितर	meaning: father vs ancestors
+synonym	पीना	पिण्याक	meaning: drink vs oil-cake
+synonym	पुरातात्विक	ऐतिहासिक	meaning: archaeological vs historical
+synonym	पूजन	अराधना	spelling: target misspelt (आराधना)
+synonym	पूर्व नाम	अभिनाम	garbled: not a standard word
+synonym	पेड़	पौधा	meaning: tree vs plant
+synonym	प्यारा	मनमोहक	meaning: dear vs charming
+synonym	प्रकट	प्रगट	spelling: variant spelling, not a synonym
+synonym	प्रवीण	विद्वान	meaning: skilled vs scholar
+synonym	प्रसन्न	प्रसन्नता	POS: adjective vs noun
+synonym	प्रेरणा	उत्साह	meaning: inspiration vs enthusiasm
+synonym	फूल	माला	meaning: flower vs garland
+synonym	फैसला	समाधान	meaning: decision vs solution
+synonym	बच	रक्ष	garbled: truncated stem
+synonym	बड़ी	महान	meaning: big vs great
+synonym	बढाते	बढ़ते	inflection: transitive vs intransitive form, not a synonym
+synonym	बधाई	शुभकामनाएं	meaning: congratulations vs best wishes
+synonym	बनाना	बनाने	inflection: same word, not a synonym
+synonym	बह	धारा	POS: verb stem (flow) vs noun (stream)
+synonym	बाँग	द्वार	meaning: cock-crow vs door
+synonym	बात	बोल	meaning: matter/talk vs spoken words
+synonym	बाल	बच्चा	ambiguous: बाल usually means hair
+synonym	बाहर	दूर	meaning: outside vs far
+synonym	बिलख	चीख	related: wail vs scream
+synonym	बिल्ली	बिलौरा	garbled: not standard (बिलौटा = tomcat)
+synonym	बुद्धि	बुद्धिमान	POS: noun vs adjective
+synonym	बुद्धिमान	बुद्धिमत	garbled: truncated word
+synonym	बुर	खराब	garbled: source word truncated (बुरा)
+synonym	बुर	दुष्ट	garbled: source word truncated (बुरा)
+synonym	बुरा	भ्रष्ट	meaning: bad vs corrupt
+synonym	भक्त	भक्तिभाव	meaning: devotee vs devotion
+synonym	भयभीत	डरना	POS: adjective vs verb
+synonym	भविष्य	आगामी	POS: noun vs adjective
+synonym	भाग	दौड़	ambiguous: भाग usually means part
+synonym	भीमकाय	भयानक	meaning: gigantic vs terrible
+synonym	भीषण	उत्पीड़नाक	garbled: not a word
+synonym	भेड़िया	लोमड़ी	meaning: wolf vs fox
+synonym	भेदभाव	अंतर्वेदना	meaning: discrimination vs inner anguish
+synonym	भोजन	भोज	meaning: meal vs feast
+synonym	भौंकना	गुर्राना	meaning: bark vs growl
+synonym	मध्य प्रान्त	मध्य प्रदेश	proper noun: Central Provinces vs Madhya Pradesh (different entities)
+synonym	मस्तिष्क	बुद्धि	meaning: brain vs intellect
+synonym	महत्वपूर्ण	मुख्य	meaning: important vs main
+synonym	महसूस	सताती	meaning: feel vs torments (made to fit the old demo pair)
+synonym	महान	सर्वोच्च	meaning: great vs supreme
+synonym	महाभारत	महाकाव्य	proper noun: title vs genre (epic)
+synonym	मांग	चाह	meaning: demand vs desire
+synonym	मांगना	अर्थना	garbled: truncated word (प्रार्थना?)
+synonym	मैदान	खेलकूद	meaning: ground vs sports
+synonym	यथासंभव	अधिकतम	meaning: as far as possible vs maximum
+synonym	रथ	गाड़ी	related: chariot vs cart/vehicle
+synonym	रथ	वाहन	related: chariot vs vehicle (broader term)
+synonym	रूप	रूपांतर	meaning: form vs transformation
+synonym	लंबा	विस्तृत	meaning: long vs extensive
+synonym	लकड़हारा	दुर्दम्य	meaning: woodcutter vs indomitable
+synonym	लकड़हारा	वनकारी	garbled: not a standard word
+synonym	लम्बाई	ऊंचाई	meaning: length vs height
+synonym	लूट	ढलाई	meaning: loot vs casting
+synonym	लेनदार	उधारी	meaning: creditor vs debt
+synonym	लोग	लोगों	inflection: same word, not a synonym
+synonym	लोमड़ी	सियार	meaning: fox vs jackal
+synonym	लौटना	फिरौती	meaning: return vs ransom
+synonym	वचन	शब्द	ambiguous: वचन here usually means promise
+synonym	वसूल	वसूली	inflection: same root, not a synonym
+synonym	विराजित	प्रदर्शित	meaning: seated/enthroned vs displayed
+synonym	विरासत	वंशावली	meaning: heritage vs genealogy
+synonym	विरोध	विपक्ष	meaning: opposition vs the opposition party
+synonym	वीर्य	धातु	meaning: semen/valour vs metal
+synonym	शंभर	बहुत ज्यादा	garbled: शंभर is Marathi for "hundred"
+synonym	शर्त	निबंधन	meaning: condition vs registration
+synonym	शिकार	शिकारी	meaning: hunt/prey vs hunter
+synonym	शिकार	हत्या	meaning: hunt vs murder
+synonym	शेख	विद्वान	meaning: sheikh vs scholar
+synonym	श्रेय	सम्मान	meaning: credit vs honour
+synonym	संभाल	संभालना	inflection: same verb, not a synonym
+synonym	सताना	प्रताड़ना	POS: verb vs noun
+synonym	सभा	समारोह	meaning: assembly vs ceremony
+synonym	समझना	अवकलन	meaning: understand vs differentiation (maths term)
+synonym	समर्पित	प्रदान करना	POS: adjective (dedicated) vs verb phrase
+synonym	सर्वशक्तिमान	बलशाली	meaning: almighty vs strong
+synonym	सहर्ष	सहमति	meaning: gladly vs consent
+synonym	सहायता	सहायकता	garbled: not a standard word
+synonym	सहेली	सख	garbled: truncated word (सखी)
+synonym	सारङ्ग	हल	meaning: Saranga (bow/deer) vs plough
+synonym	सीख	ज्ञान	meaning: lesson vs knowledge
+synonym	सुंदर	सुखद	meaning: beautiful vs pleasant
+synonym	सुशोभा	प्रभा	garbled: not a standard word
+synonym	सूचित	बताना	POS: adjective (informed) vs verb
+synonym	सेवा	दास्य	meaning: service vs servitude
+synonym	सोना	कनक	ambiguous: सोना also means sleep
+synonym	सौंप	सौंपा	inflection: same verb, not a synonym
+synonym	स्थापित	स्थापना	POS: adjective vs noun
+synonym	स्थित	वर्तमान	meaning: located vs present/current
+synonym	हरण	लूट	meaning: abduction vs loot
+synonym	हांफ	सांस लेना	meaning: pant vs breathe
+synonym	हाथ	दस्तक	meaning: hand vs knock
+synonym	हाथ	बाजू	meaning: hand vs arm
+synonym	हिंसा	उत्पीड़न	meaning: violence vs oppression
+synonym	होटल	आवास	meaning: hotel vs accommodation

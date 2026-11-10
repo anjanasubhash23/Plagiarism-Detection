@@ -2,8 +2,11 @@ __pycache__/
 *.py[cod]
 .venv/
 .pytest_cache/
+.ruff_cache/
 *.egg-info/
 dist/
 .DS_Store
+# Secrets: LLM provider keys live here (see DECISIONS.md)
+.env
 # Word lock files created while a .docx is open
 ~$*.docx
